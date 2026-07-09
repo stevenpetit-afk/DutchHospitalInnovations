@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08T13:12:56.156762+00:00",
-  "total": 19,
+  "last_updated": "2026-07-09T08:29:44.364455+00:00",
+  "total": 30,
   "articles": [
     {
       "id": "2e721c5fb6da35f68c0935cf7023fefd",
@@ -209,6 +209,26 @@
       ]
     },
     {
+      "id": "a0c3f8f2b5f3ec6ffae74bd4ad1a36de",
+      "umc": "UMCG",
+      "title": "UMCG voert onderzoek uit tijdens Groningse 4Daagse - Drimble",
+      "summary": "UMCG voert onderzoek uit tijdens Groningse 4Daagse Drimble",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX19GREVEa1ctQ3pjQk9kakxFYzBiQm9Bd0NlckxvQW9jMVpjZVFzRm5ST3UzZG1oajhYTFY0bk05bWVfVmFZeHFlRHViUUc1R2xyOVB1R3NhOXhvZkl2MWFWeUtyNGFSN05PdlN3dGNiNkJ2ZUVTR01zSXo2VFUyQmprTVRTcjZOWGdJV25BbzhDVEljcklCVXBNN3A1SVQ4dFZhbzRacTEzUHBqUER0TV9aYlNfdw?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-02T13:07:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "25da96bb20211f4120ab8e6445a352e6",
+      "umc": "Maastricht UMC+",
+      "title": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie - 3Heuvelland",
+      "summary": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie 3Heuvelland",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX2NHQzd2TW5VbFVuckFNT0NtdUFIcURkZEZHcU5tdmVPanAwSVAyTlNsNVAxZlRMV19mUjhmbThWR185TjBOaERtZ195eC0zTE1UV0tUY0NrZnVRY2hPcjhFM2xBZGhuUFhHNUk2RmdlY2pkWURKTDBWZTk4Sm0xWVRYSmtpdnhzdzU3b29qM1Q1akpfc3VocVpCU0lac0JaV3k0UTNpSEJ0S2VKQ2U3Sg?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T13:43:19+00:00",
+      "tags": []
+    },
+    {
       "id": "60e45a3b98e93681ab2e1b16e161f736",
       "umc": "Erasmus MC",
       "title": "Robotarm helpt neurochirurgen bij precisie-operaties aan de hersenstam",
@@ -221,6 +241,28 @@
         "Neurologie",
         "AI & machine learning"
       ]
+    },
+    {
+      "id": "4ccb8e5c22f1cbe8c19c9498821b4056",
+      "umc": "UMCG",
+      "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - Groninger Internet Courant",
+      "summary": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht Groninger Internet Courant",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHF5Y0Y0VHFQOXJMbUdoS3NXeFFmcWVsc3doMXkybTZ4aGY5U3ZWcGw5OUJrQVBNTWw5OHRhMXI3M3E1c2ozU1Myc1RKMjZFLS1PYUI2ZUdBNXF0S3NLcEpyU3VIamxuRkdwSTVLZlZzR0tiZGdYYzNLT2p4bTQ1SFg5S2I4cTBzaFAtNzdRZEQyR2dJeGFGM3FWaS1wRVJGVEdWLWtrSkRMTjRLempNSG9nanc5aWVkWFp4aDBQZVRQRWNiZ0E0RA?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T08:26:43+00:00",
+      "tags": [
+        "Farmacologie"
+      ]
+    },
+    {
+      "id": "a0b51543b6f91a3f2b4e6dc3b43e1f43",
+      "umc": "Maastricht UMC+",
+      "title": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst - De Nieuwe Ster Maastricht",
+      "summary": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst De Nieuwe Ster Maastricht",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWtJMV91a1ZYYmtLVU9tNGpvWUtKTUJ2cGtxWk5VUEwtbXRUNzZZS0dIYml3Y1Q0ZnRLRk8zbFctenRQWUxCNkxYMXdpRjFoby1lT2czczlFNENjUXdsXzZRYXUwMlQ0b2ZOYWR2M1ZlaVNQZnkwRkN0dERMM1VqU2hyTFlOYmg5ZXJtQnRtczVadnRILUdaaU1wUVN5ZGE2RW9OMg?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T07:33:08+00:00",
+      "tags": []
     },
     {
       "id": "f94f7b51cb7764d2701b3fd87b39ec36",
@@ -262,6 +304,89 @@
         "Infectieziekten",
         "Subsidie & samenwerking",
         "Diagnostiek & beeldvorming"
+      ]
+    },
+    {
+      "id": "d7adcce7ee79e22d64827ede62405924",
+      "umc": "LUMC",
+      "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - Leids Universitair Medisch Centrum | LUMC",
+      "summary": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek Leids Universitair Medisch Centrum | LUMC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wV0JhNDhaOXpiZjd0cjBjejJDb2dyeHFja3BFS3VsMUxnNF90MnlnUmJFajY1NlJ2YVdLb2xJU2Z5MTBzZDZpY19WX0poT1F5RzM5bDNaLXRnODFzU241alVhZ0ZoOFJ4bzY5SGNIbzZLT3VTYXUzNHlVdjQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-26T07:00:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "a2e2a53c608e429fe06450f936c64f5f",
+      "umc": "LUMC",
+      "title": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker - Leids Universitair Medisch Centrum | LUMC",
+      "summary": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker Leids Universitair Medisch Centrum | LUMC",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWW5teFJSVEI2dHBZT1V1MUJ1SnF6T2RPNTlmOTgxS3dBUmxHTVpiYXM5eEVEdklGdUVFcGhwUXR1MWRaOEVzc1p6dVdGNDFfRHdYYUhWMW4xZWMxZUh5N2xlNmtpTlVuOUJuZjM5Vzczd3RfZ3B1bjd3QVNodnV2LTVOeDFmdldud1NFOVFDVEZIMktEZllkSzNHWTZ6cmxDWUhxNk9JMnpLdHplU0NXY09hc0x3UQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-24T06:57:10+00:00",
+      "tags": [
+        "Kanker & oncologie",
+        "Farmacologie"
+      ]
+    },
+    {
+      "id": "0de04880c09ff10e705db65056014160",
+      "umc": "Maastricht UMC+",
+      "title": "Zuyderland en Maastricht UMC+ krijgen subsidie voor acht gezamenlijke onderzoeken - Heuvelland Vandaag",
+      "summary": "Zuyderland en Maastricht UMC+ krijgen subsidie voor acht gezamenlijke onderzoeken Heuvelland Vandaag",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMGlVODhnbFUxeHY1aXdXLUZzUEFySGRrTTlvSVFQYmZ1dVdzeFktU01rMjMwTzBVTGt3cXhJUUpVYkFHamJFTFVIWU1XNnVkNEVVMy0weGJRZlJJVTNVR2JvcXRobEJadXZNUnpRMVp0Tl9mbEJPQTNJYzl2N2kzdFBUT0xyT252MnhzaFo1cUdxLXN1di1zaUxpYzFXUlRFZjZVNlc1Sm1VOUpuOUxiRTFQVQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-15T07:00:00+00:00",
+      "tags": [
+        "Genomica & genetica",
+        "Subsidie & samenwerking"
+      ]
+    },
+    {
+      "id": "167ee7760a43aad06421ab4ebbe5defb",
+      "umc": "Maastricht UMC+",
+      "title": "Uniek waterfilter onderzoekt het verwijderen van medicijnresten uit afvalwater - Maastricht UMC+",
+      "summary": "Uniek waterfilter onderzoekt het verwijderen van medicijnresten uit afvalwater Maastricht UMC+",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGhwVlNSUjBYR29TNlVtVGVRTUJrOE9TdHhXdXBOay1Uc3FobEc4bmJjdkI5cmFhelJFYTBfQ0J6SjJKRG1EbVAzVHUwaDI4bDVEMHJBRC10MDVIN1RfenZIeFZITDlMbWgtak5BaEs3RERwQWh0clZ3RlVJbXAwSWpkMXBlU08yVTJ3OWZqd1NaODJlNXpXRjAxM1dqbF9hcXRfdkpYRF9iRlpCQnNzYi1Sdw?oc=5",
+      "source": "NEWS",
+      "published": "2026-05-27T07:00:00+00:00",
+      "tags": [
+        "Farmacologie"
+      ]
+    },
+    {
+      "id": "b40a480b7988b52ef106a228e2ca3b63",
+      "umc": "Amsterdam UMC",
+      "title": "Meer inzicht in koppen door onderzoek KNVB en Amsterdam UMC - KNVB",
+      "summary": "Meer inzicht in koppen door onderzoek KNVB en Amsterdam UMC KNVB",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVJhd3lDdWRaaTJHTVc0ZXpBY05fT29FMktjVnVpR1NqSmRvdnRHQmFYd3hvNzdBZ2RLZWpabENvY1VCQ1JLOHllNWRMWDAyRWZHb1dGSE8xV0dSa0IwWVBySjNvZ21jeTBuQ0FTbXdXOUpLQ2tVcHYtTk1nRHcwbzZlcUdaelpCdlJMa2xGQ1poU213UlU3bzRBZVRNQU9YMmNXd01mbXV4YXRTNm9jOQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-05-18T07:00:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "7afcb07f3442466bbe2dd0154f90cba2",
+      "umc": "UMCG",
+      "title": "UMCG-onderzoekers: 'Eeuwenoud medicijn goed voor patiënten met hartfalen' - Groninger Internet Courant",
+      "summary": "UMCG-onderzoekers: 'Eeuwenoud medicijn goed voor patiënten met hartfalen' Groninger Internet Courant",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXRrekdiVHJjbGlrNENBM2F0MmJpY3BpVkNBQlNtMnRCc21seVpEZE5WVzNwMXAtNVhPd0xIenFJdlJ2Zzdad2I2S1I2Tlc3QkNtMEpWU2lmZldxbDl6N1lzOVY1SzVvQU5pSXM2eGRCLXphMFp6UmF1eXViNkdXbFJaM0R1amRYZFAxR1MyNDJITFl3UTJF?oc=5",
+      "source": "NEWS",
+      "published": "2026-05-12T07:42:26+00:00",
+      "tags": [
+        "Cardiologie",
+        "Farmacologie"
+      ]
+    },
+    {
+      "id": "abdb0fa17301abf145357fadf868000d",
+      "umc": "UMC Utrecht",
+      "title": "Feiten en fabels over immuuntherapie - UMC Utrecht",
+      "summary": "Feiten en fabels over immuuntherapie UMC Utrecht",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9udExmVmRiT2VRMzlzaEhTZi1HS1hHdFFEQWx4a2JSU0JNXzZtcnhkaWtCd0V2eUkxUGZENXZaZE5LMHF2Q3ZqZ1pUX2lwME14VC1CbkVJb0t6bTRwc1U4Ylp4TVNrQzJfZGVyeDR6OXlBRjY1al9COA?oc=5",
+      "source": "NEWS",
+      "published": "2026-05-11T07:00:00+00:00",
+      "tags": [
+        "Farmacologie"
       ]
     }
   ]
