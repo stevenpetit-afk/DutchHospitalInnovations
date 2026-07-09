@@ -1,0 +1,63 @@
+name: Dagelijks nieuws ophalen
+
+on:
+  # Elke dag om 06:30 UTC (= 08:30 Amsterdam zomertijd / 07:30 wintertijd)
+  schedule:
+    - cron: "30 6 * * *"
+
+  # Handmatig starten via GitHub Actions-interface
+  workflow_dispatch:
+
+permissions:
+  contents: write   # nodig om articles.json te committen en te pushen
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # 1. Code ophalen
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # 2. Python instellen
+      - name: Python instellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      # 3. Afhankelijkheden installeren
+      - name: Afhankelijkheden installeren
+        run: pip install -r requirements.txt
+
+      # 4. Nieuwsscript uitvoeren
+      - name: Nieuws ophalen
+        run: python scripts/fetch_news.py
+
+      # 5. Wijzigingen committen en pushen
+      - name: articles.json committen
+        run: |
+          git config user.name  "UMC Innovaties Bot"
+          git config user.email "bot@umc-innovaties.nl"
+          git add data/articles.json
+          if git diff --cached --quiet; then
+            echo "Geen nieuwe artikelen gevonden — niets te committen."
+          else
+            DATUM=$(date '+%Y-%m-%d %H:%M UTC')
+            git commit -m "🔄 Nieuws bijgewerkt: $DATUM"
+            git push
+          fi
+
+      # 6. Deployen naar GitHub Pages
+      - name: Deployen naar GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .          # root van het project publiceren
+          exclude_assets: ".github,scripts,requirements.txt,README.md"
+          keep_files: false
+          commit_message: "🌐 Site bijgewerkt"
