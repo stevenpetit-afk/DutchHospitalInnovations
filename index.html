@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UMC Innovaties Nederland</title>
+  <meta name="description" content="Dagelijks nieuws over innovaties en doorbraken uit de Nederlandse universitair medische centra." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #f8f9fc;
+      --surface:   #ffffff;
+      --border:    #e5e7ef;
+      --text:      #1a1d2e;
+      --muted:     #6b7280;
+      --accent:    #0055a5;   /* UMC blauw */
+      --accent-lt: #e8f0fb;
+      --tag-bg:    #eef2ff;
+      --tag-tx:    #3730a3;
+      --radius:    12px;
+      --shadow:    0 2px 12px rgba(0,0,0,.07);
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+    }
+    .header-inner {
+      max-width: 1200px; margin: 0 auto;
+      padding: 0 24px;
+      display: flex; align-items: center; justify-content: space-between;
+      height: 64px; gap: 16px;
+    }
+    .logo {
+      display: flex; align-items: center; gap: 10px;
+      text-decoration: none; color: inherit; flex-shrink: 0;
+    }
+    .logo-icon {
+      width: 36px; height: 36px;
+      background: var(--accent);
+      border-radius: 8px;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .logo-icon svg { width: 20px; height: 20px; fill: white; }
+    .logo-text { font-weight: 700; font-size: 1.05rem; }
+    .logo-text span { color: var(--accent); }
+
+    .header-search {
+      flex: 1; max-width: 400px;
+      position: relative;
+    }
+    .header-search input {
+      width: 100%;
+      padding: 8px 16px 8px 40px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: var(--bg);
+      font-family: inherit; font-size: 0.9rem; color: var(--text);
+      outline: none; transition: border-color .2s;
+    }
+    .header-search input:focus { border-color: var(--accent); }
+    .header-search svg {
+      position: absolute; left: 12px; top: 50%; transform: translateY(-50%);
+      width: 16px; height: 16px; color: var(--muted); pointer-events: none;
+    }
+
+    .last-updated {
+      font-size: 0.8rem; color: var(--muted); white-space: nowrap;
+    }
+
+    /* ── Hero ── */
+    .hero {
+      background: linear-gradient(135deg, #0055a5 0%, #003d7a 100%);
+      color: white;
+      text-align: center;
+      padding: 52px 24px 48px;
+    }
+    .hero h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.8rem, 4vw, 2.8rem);
+      margin-bottom: 12px;
+    }
+    .hero p {
+      font-size: 1.05rem; opacity: .85; max-width: 560px; margin: 0 auto 24px;
+    }
+    .stats-row {
+      display: flex; gap: 32px; justify-content: center; flex-wrap: wrap;
+    }
+    .stat { text-align: center; }
+    .stat-num { font-size: 1.6rem; font-weight: 700; }
+    .stat-label { font-size: 0.8rem; opacity: .75; }
+
+    /* ── Layout ── */
+    .container {
+      max-width: 1200px; margin: 0 auto; padding: 32px 24px;
+    }
+
+    .layout { display: grid; grid-template-columns: 1fr 280px; gap: 32px; }
+    @media (max-width: 900px) { .layout { grid-template-columns: 1fr; } }
+
+    /* ── Filter bar ── */
+    .filter-bar {
+      display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 24px; align-items: center;
+    }
+    .filter-btn {
+      padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; font-weight: 500;
+      border: 1px solid var(--border); background: var(--surface); color: var(--muted);
+      cursor: pointer; transition: all .15s; font-family: inherit;
+    }
+    .filter-btn:hover { border-color: var(--accent); color: var(--accent); }
+    .filter-btn.active { background: var(--accent); border-color: var(--accent); color: white; }
+    .results-count { margin-left: auto; font-size: 0.85rem; color: var(--muted); }
+
+    /* ── Article grid ── */
+    .article-grid {
+      display: grid; gap: 20px;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    }
+
+    /* Featured row: first 2 articles span more */
+    .article-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      display: flex; flex-direction: column;
+      transition: transform .2s, box-shadow .2s;
+      text-decoration: none; color: inherit;
+    }
+    .article-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 24px rgba(0,0,0,.11);
+    }
+    .article-card.featured {
+      grid-column: span 2;
+      flex-direction: row;
+    }
+    @media (max-width: 680px) { .article-card.featured { flex-direction: column; grid-column: span 1; } }
+
+    .card-img {
+      background: linear-gradient(135deg, var(--accent-lt) 0%, #dde9f8 100%);
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0;
+    }
+    .article-card:not(.featured) .card-img { height: 160px; }
+    .article-card.featured .card-img { width: 280px; min-height: 220px; }
+    @media (max-width: 680px) { .article-card.featured .card-img { width: 100%; height: 160px; } }
+
+    .card-img svg { width: 48px; height: 48px; opacity: .3; }
+
+    .card-body { padding: 18px 20px; flex: 1; display: flex; flex-direction: column; gap: 8px; }
+
+    .card-meta {
+      display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+    }
+    .umc-badge {
+      font-size: 0.72rem; font-weight: 600; padding: 3px 8px;
+      border-radius: 4px; background: var(--tag-bg); color: var(--tag-tx);
+      white-space: nowrap;
+    }
+    .card-date { font-size: 0.78rem; color: var(--muted); }
+
+    .card-title {
+      font-size: 1rem; font-weight: 600; line-height: 1.45;
+      color: var(--text);
+    }
+    .article-card.featured .card-title { font-size: 1.15rem; }
+
+    .card-summary {
+      font-size: 0.88rem; color: var(--muted); line-height: 1.55;
+      display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .card-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: auto; padding-top: 8px; }
+    .tag {
+      font-size: 0.73rem; padding: 2px 8px; border-radius: 12px;
+      background: var(--bg); color: var(--muted); border: 1px solid var(--border);
+    }
+
+    .card-footer {
+      padding: 12px 20px;
+      border-top: 1px solid var(--border);
+      display: flex; align-items: center; justify-content: space-between;
+      font-size: 0.8rem; color: var(--muted);
+    }
+    .read-more {
+      color: var(--accent); font-weight: 500;
+      display: flex; align-items: center; gap: 4px;
+    }
+
+    /* ── Sidebar ── */
+    .sidebar { display: flex; flex-direction: column; gap: 20px; }
+
+    .sidebar-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 20px;
+    }
+    .sidebar-card h3 {
+      font-size: 0.9rem; font-weight: 600; margin-bottom: 14px;
+      color: var(--text);
+    }
+
+    .umc-list { display: flex; flex-direction: column; gap: 10px; }
+    .umc-item {
+      display: flex; align-items: center; justify-content: space-between;
+      font-size: 0.85rem; cursor: pointer; padding: 4px 0;
+    }
+    .umc-item:hover .umc-name { color: var(--accent); }
+    .umc-name { font-weight: 500; }
+    .umc-count {
+      background: var(--tag-bg); color: var(--tag-tx);
+      font-size: 0.75rem; font-weight: 600;
+      padding: 2px 8px; border-radius: 10px;
+    }
+
+    .topic-cloud { display: flex; flex-wrap: wrap; gap: 7px; }
+    .topic-chip {
+      font-size: 0.8rem; padding: 4px 11px;
+      border-radius: 14px; border: 1px solid var(--border);
+      background: var(--bg); color: var(--muted);
+      cursor: pointer; transition: all .15s;
+    }
+    .topic-chip:hover, .topic-chip.active {
+      background: var(--accent-lt); border-color: var(--accent); color: var(--accent);
+    }
+
+    /* ── Loading / empty ── */
+    .state-msg {
+      text-align: center; padding: 60px 24px; color: var(--muted);
+    }
+    .state-msg svg { width: 48px; height: 48px; margin-bottom: 12px; opacity: .4; }
+    .state-msg p { font-size: 0.95rem; }
+
+    .spinner {
+      width: 36px; height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin .7s linear infinite;
+      margin: 0 auto 12px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Pagination ── */
+    .pagination {
+      display: flex; justify-content: center; gap: 8px; margin-top: 32px; flex-wrap: wrap;
+    }
+    .page-btn {
+      padding: 8px 14px; border-radius: 8px; font-family: inherit; font-size: 0.9rem;
+      border: 1px solid var(--border); background: var(--surface); color: var(--text);
+      cursor: pointer; transition: all .15s;
+    }
+    .page-btn:hover { border-color: var(--accent); color: var(--accent); }
+    .page-btn.active { background: var(--accent); border-color: var(--accent); color: white; }
+    .page-btn:disabled { opacity: .4; cursor: default; }
+
+    /* ── Footer ── */
+    footer {
+      border-top: 1px solid var(--border);
+      text-align: center;
+      padding: 28px 24px;
+      font-size: 0.82rem;
+      color: var(--muted);
+      margin-top: 32px;
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <div class="header-inner">
+    <a href="/" class="logo">
+      <div class="logo-icon">
+        <svg viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+      </div>
+      <span class="logo-text">UMC <span>Innovaties</span></span>
+    </a>
+
+    <div class="header-search">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+      </svg>
+      <input type="text" id="searchInput" placeholder="Zoek innovaties, UMC's, thema's…" />
+    </div>
+
+    <span class="last-updated" id="lastUpdated">Laden…</span>
+  </div>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <h1>Innovaties uit de Nederlandse UMC's</h1>
+  <p>Elke dag automatisch het laatste nieuws over medische doorbraken, onderzoek en technologie uit de 8 universitair medische centra.</p>
+  <div class="stats-row">
+    <div class="stat"><div class="stat-num" id="statArticles">—</div><div class="stat-label">Artikelen</div></div>
+    <div class="stat"><div class="stat-num">8</div><div class="stat-label">UMC's gevolgd</div></div>
+    <div class="stat"><div class="stat-num">Dagelijks</div><div class="stat-label">Bijgewerkt</div></div>
+  </div>
+</section>
+
+<!-- MAIN -->
+<div class="container">
+  <div class="layout">
+
+    <!-- LEFT: articles -->
+    <main>
+      <!-- Filter bar -->
+      <div class="filter-bar" id="filterBar">
+        <button class="filter-btn active" data-filter="all">Alles</button>
+        <button class="filter-btn" data-filter="Afgelopen 24 uur">24 uur</button>
+        <button class="filter-btn" data-filter="Afgelopen week">Deze week</button>
+        <button class="filter-btn" data-filter="Afgelopen maand">Deze maand</button>
+        <span class="results-count" id="resultsCount"></span>
+      </div>
+
+      <div id="articleGrid" class="article-grid">
+        <div class="state-msg" style="grid-column:1/-1">
+          <div class="spinner"></div>
+          <p>Artikelen laden…</p>
+        </div>
+      </div>
+
+      <div class="pagination" id="pagination"></div>
+    </main>
+
+    <!-- RIGHT: sidebar -->
+    <aside class="sidebar">
+
+      <div class="sidebar-card">
+        <h3>📍 UMC's</h3>
+        <div class="umc-list" id="umcList">
+          <div style="color:var(--muted);font-size:.85rem">Laden…</div>
+        </div>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>🏷️ Thema's</h3>
+        <div class="topic-cloud" id="topicCloud">
+          <div style="color:var(--muted);font-size:.85rem">Laden…</div>
+        </div>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>ℹ️ Over dit project</h3>
+        <p style="font-size:.83rem;color:var(--muted);line-height:1.6">
+          Dit platform verzamelt automatisch nieuws over innovaties uit alle 8 Nederlandse UMC's.
+          Elke ochtend om 07:00 worden nieuwe artikelen opgehaald via RSS-feeds en Google News.
+        </p>
+      </div>
+
+    </aside>
+  </div>
+</div>
+
+<footer>
+  Automatisch bijgewerkt · Bronnen: RSS-feeds van de UMC's &amp; Google News ·
+  <a href="https://github.com" target="_blank">GitHub</a>
+</footer>
+
+<script>
+// ── Configuration ──────────────────────────────────────────────────
+const PAGE_SIZE = 12;
+const UMC_COLORS = {
+  'Amsterdam UMC':  '#e74c3c',
+  'Erasmus MC':     '#e67e22',
+  'LUMC':           '#27ae60',
+  'Maastricht UMC+':'#8e44ad',
+  'Radboudumc':     '#2980b9',
+  'UMCG':           '#16a085',
+  'UMC Utrecht':    '#c0392b',
+};
+
+// ── State ──────────────────────────────────────────────────────────
+let allArticles = [];
+let filtered = [];
+let currentPage = 1;
+let activeUmc = null;
+let activeTopic = null;
+let activeTimeFilter = 'all';
+let searchQuery = '';
+
+// ── Bootstrap ──────────────────────────────────────────────────────
+async function init() {
+  try {
+    const res = await fetch('data/articles.json?t=' + Date.now());
+    if (!res.ok) throw new Error('Geen data gevonden');
+    const data = await res.json();
+    allArticles = data.articles || [];
+
+    // Update hero stats
+    document.getElementById('statArticles').textContent = allArticles.length;
+    if (data.last_updated) {
+      const d = new Date(data.last_updated);
+      document.getElementById('lastUpdated').textContent =
+        'Bijgewerkt: ' + d.toLocaleDateString('nl-NL', {day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'});
+    }
+
+    buildSidebar();
+    applyFilters();
+  } catch (e) {
+    document.getElementById('articleGrid').innerHTML = `
+      <div class="state-msg" style="grid-column:1/-1">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+          <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/>
+          <line x1="12" y1="16" x2="12.01" y2="16"/>
+        </svg>
+        <p>Artikelen konden niet worden geladen.<br>Controleer of <code>data/articles.json</code> bestaat.</p>
+      </div>`;
+  }
+}
+
+// ── Sidebar ────────────────────────────────────────────────────────
+function buildSidebar() {
+  // UMC counts
+  const umcCounts = {};
+  allArticles.forEach(a => {
+    umcCounts[a.umc] = (umcCounts[a.umc] || 0) + 1;
+  });
+  const umcEl = document.getElementById('umcList');
+  umcEl.innerHTML = Object.entries(umcCounts)
+    .sort((a,b) => b[1]-a[1])
+    .map(([name, count]) => `
+      <div class="umc-item" onclick="filterByUmc('${name}')">
+        <span class="umc-name">${name}</span>
+        <span class="umc-count">${count}</span>
+      </div>`).join('');
+
+  // Topics
+  const topicCounts = {};
+  allArticles.forEach(a => (a.tags||[]).forEach(t => { topicCounts[t] = (topicCounts[t]||0)+1; }));
+  const topTopics = Object.entries(topicCounts).sort((a,b)=>b[1]-a[1]).slice(0,20);
+  document.getElementById('topicCloud').innerHTML = topTopics
+    .map(([t]) => `<span class="topic-chip" onclick="filterByTopic('${t}')">${t}</span>`).join('');
+}
+
+// ── Filters ────────────────────────────────────────────────────────
+function applyFilters() {
+  const now = Date.now();
+  filtered = allArticles.filter(a => {
+    // Time
+    if (activeTimeFilter !== 'all') {
+      const pub = new Date(a.published).getTime();
+      const age = now - pub;
+      if (activeTimeFilter === 'Afgelopen 24 uur' && age > 86400000) return false;
+      if (activeTimeFilter === 'Afgelopen week' && age > 604800000) return false;
+      if (activeTimeFilter === 'Afgelopen maand' && age > 2592000000) return false;
+    }
+    // UMC
+    if (activeUmc && a.umc !== activeUmc) return false;
+    // Topic
+    if (activeTopic && !(a.tags||[]).includes(activeTopic)) return false;
+    // Search
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase();
+      const hay = (a.title + ' ' + a.summary + ' ' + a.umc + ' ' + (a.tags||[]).join(' ')).toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  currentPage = 1;
+  document.getElementById('resultsCount').textContent =
+    filtered.length + ' artikel' + (filtered.length !== 1 ? 'en' : '');
+  renderPage();
+}
+
+function filterByUmc(name) {
+  activeUmc = activeUmc === name ? null : name;
+  // Update sidebar highlights
+  document.querySelectorAll('.umc-item .umc-name').forEach(el => {
+    el.style.color = el.textContent === activeUmc ? 'var(--accent)' : '';
+  });
+  applyFilters();
+}
+
+function filterByTopic(topic) {
+  activeTopic = activeTopic === topic ? null : topic;
+  document.querySelectorAll('.topic-chip').forEach(el => {
+    el.classList.toggle('active', el.textContent === activeTopic);
+  });
+  applyFilters();
+}
+
+// ── Filter buttons ─────────────────────────────────────────────────
+document.getElementById('filterBar').addEventListener('click', e => {
+  const btn = e.target.closest('.filter-btn');
+  if (!btn) return;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  activeTimeFilter = btn.dataset.filter;
+  applyFilters();
+});
+
+// ── Search ────────────────────────────────────────────────────────
+let searchTimer;
+document.getElementById('searchInput').addEventListener('input', e => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => { searchQuery = e.target.value.trim(); applyFilters(); }, 250);
+});
+
+// ── Render ────────────────────────────────────────────────────────
+function renderPage() {
+  const grid = document.getElementById('articleGrid');
+  const start = (currentPage-1)*PAGE_SIZE;
+  const pageItems = filtered.slice(start, start+PAGE_SIZE);
+
+  if (!pageItems.length) {
+    grid.innerHTML = `<div class="state-msg" style="grid-column:1/-1">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="48" height="48">
+        <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+      </svg>
+      <p>Geen artikelen gevonden voor deze filters.</p></div>`;
+    document.getElementById('pagination').innerHTML = '';
+    return;
+  }
+
+  grid.innerHTML = pageItems.map((a, i) => articleCard(a, i)).join('');
+  renderPagination();
+
+  // Scroll to top on page change
+  if (currentPage > 1) window.scrollTo({top: document.querySelector('.filter-bar').offsetTop - 80, behavior:'smooth'});
+}
+
+function articleCard(a, idx) {
+  const featured = idx < 2 && currentPage === 1 ? 'featured' : '';
+  const date = new Date(a.published).toLocaleDateString('nl-NL', {day:'numeric', month:'short', year:'numeric'});
+  const tags = (a.tags||[]).slice(0,4).map(t => `<span class="tag">${t}</span>`).join('');
+  const icon = `<svg viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="1.2">
+    <path d="M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18m0 0h10a2 2 0 0 0 2-2V9M9 21H5a2 2 0 0 1-2-2V9m0 0h18"/>
+  </svg>`;
+
+  return `
+    <a class="article-card ${featured}" href="${a.url}" target="_blank" rel="noopener noreferrer">
+      <div class="card-img">${icon}</div>
+      <div style="display:flex;flex-direction:column;flex:1">
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="umc-badge">${a.umc}</span>
+            <span class="card-date">${date}</span>
+          </div>
+          <div class="card-title">${a.title}</div>
+          <div class="card-summary">${a.summary || ''}</div>
+          <div class="card-tags">${tags}</div>
+        </div>
+        <div class="card-footer">
+          <span>${a.source || 'Bron'}</span>
+          <span class="read-more">Lees verder
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <path d="m9 18 6-6-6-6"/>
+            </svg>
+          </span>
+        </div>
+      </div>
+    </a>`;
+}
+
+function renderPagination() {
+  const total = Math.ceil(filtered.length / PAGE_SIZE);
+  if (total <= 1) { document.getElementById('pagination').innerHTML = ''; return; }
+
+  let html = `<button class="page-btn" onclick="goPage(${currentPage-1})" ${currentPage===1?'disabled':''}>‹ Vorige</button>`;
+  for (let i=1; i<=total; i++) {
+    if (i===1 || i===total || Math.abs(i-currentPage)<=2) {
+      html += `<button class="page-btn ${i===currentPage?'active':''}" onclick="goPage(${i})">${i}</button>`;
+    } else if (Math.abs(i-currentPage)===3) {
+      html += `<span style="padding:8px 6px;color:var(--muted)">…</span>`;
+    }
+  }
+  html += `<button class="page-btn" onclick="goPage(${currentPage+1})" ${currentPage===total?'disabled':''}>Volgende ›</button>`;
+  document.getElementById('pagination').innerHTML = html;
+}
+
+function goPage(n) {
+  const total = Math.ceil(filtered.length / PAGE_SIZE);
+  if (n < 1 || n > total) return;
+  currentPage = n;
+  renderPage();
+}
+
+// ── Go! ────────────────────────────────────────────────────────────
+init();
+</script>
+</body>
+</html>

@@ -1,0 +1,393 @@
+{
+  "last_updated": "2026-07-09T08:29:44.364455+00:00",
+  "total": 30,
+  "articles": [
+    {
+      "id": "2e721c5fb6da35f68c0935cf7023fefd",
+      "umc": "Radboudumc",
+      "title": "Radboudumc ontwikkelt vaccinplatform dat binnen 48 uur tegen nieuw virus beschermt",
+      "summary": "Virologen van Radboudumc hebben een mRNA-vaccinplatform ontwikkeld dat in slechts 48 uur na identificatie van een nieuw virus een effectief vaccin kan produceren. In dierproeven bood het vaccin bij vier van vijf dieren volledige bescherming. ZonMw financiert de volgende onderzoeksfase met 3,8 miljoen euro.",
+      "url": "https://www.radboudumc.nl/nieuws/mRNA-vaccinplatform",
+      "source": "Radboudumc",
+      "published": "2026-07-08T13:12:56.156762+00:00",
+      "tags": [
+        "Infectieziekten",
+        "Farmacologie",
+        "Subsidie & samenwerking"
+      ]
+    },
+    {
+      "id": "fc515198fb6ea3a881aeb98494b07451",
+      "umc": "Amsterdam UMC",
+      "title": "AI-algoritme van Amsterdam UMC detecteert borstkanker beter dan radioloog",
+      "summary": "Onderzoekers van Amsterdam UMC hebben een kunstmatige-intelligentiemodel ontwikkeld dat microscopisch kleine borstkankerlaesies opspoodt met een nauwkeurigheid van 96%, significant beter dan de gemiddelde radioloog. Het model is getraind op meer dan 100.000 mammografieën en zal binnenkort worden getest in een multicenter klinische studie.",
+      "url": "https://www.amsterdamumc.org/nieuws/ai-borstkanker-detectie",
+      "source": "Amsterdam UMC",
+      "published": "2026-07-08T12:12:56.156762+00:00",
+      "tags": [
+        "AI & machine learning",
+        "Kanker & oncologie",
+        "Diagnostiek & beeldvorming"
+      ]
+    },
+    {
+      "id": "0d023f2941bf2fb65f9207daf9a40e95",
+      "umc": "UMC Utrecht",
+      "title": "UMC Utrecht implanteert als eerste ter wereld spraakcomputer in hersenen patiënt met ALS",
+      "summary": "Neurochirurgen van UMC Utrecht hebben een Brain-Computer Interface geïmplanteerd bij een 58-jarige ALS-patiënt die volledig verlamd is. Via elektroden in de motorische schors kan de patiënt nu tekst typen met een snelheid van 62 woorden per minuut, uitsluitend door na te denken over het bewegen van zijn handen.",
+      "url": "https://www.umcutrecht.nl/nieuws/bci-als-patiënt",
+      "source": "UMC Utrecht",
+      "published": "2026-07-07T13:12:56.156762+00:00",
+      "tags": [
+        "Neurologie",
+        "AI & machine learning",
+        "Chirurgie & robotica"
+      ]
+    },
+    {
+      "id": "9836bb80bd65e7802cb1dba911e2e39c",
+      "umc": "Erasmus MC",
+      "title": "Erasmus MC implanteert eerste draadloze pacemaker ter wereld bij kind van 3 jaar",
+      "summary": "Chirurgen van het Erasmus MC Sophia Kinderziekenhuis hebben succesvol de kleinste draadloze pacemaker ter wereld geïmplanteerd bij een driejarig meisje met een aangeboren hartafwijking. Het apparaat, kleiner dan een vitamine-pil, werkt zonder draden en kan van buitenaf worden geprogrammeerd.",
+      "url": "https://www.erasmusmc.nl/nieuws/draadloze-pacemaker-kind",
+      "source": "Erasmus MC",
+      "published": "2026-07-07T10:12:56.156762+00:00",
+      "tags": [
+        "Cardiologie",
+        "Chirurgie & robotica"
+      ]
+    },
+    {
+      "id": "35ff7c8f7d9481af440552e499b078bb",
+      "umc": "Maastricht UMC+",
+      "title": "Maastricht UMC+ start eerste Nederlandse studie met draagbare kunstnier",
+      "summary": "Het Maastricht UMC+ is gestart met een klinische studie voor de 'wearable kidney', een draagbare kunstnier die dialysepatiënten bevrijdt van hun afhankelijkheid van de dialysemachine. Acht patiënten nemen deel aan de eerste fase; het apparaat werkt continu en weegt slechts 5 kilogram.",
+      "url": "https://www.mumc.nl/nieuws/draagbare-kunstnier-studie",
+      "source": "Maastricht UMC+",
+      "published": "2026-07-07T07:12:56.156762+00:00",
+      "tags": [
+        "Chirurgie & robotica",
+        "Farmacologie"
+      ]
+    },
+    {
+      "id": "6ec83a1fe2b6dce972121fa4bde8b9ff",
+      "umc": "Amsterdam UMC",
+      "title": "Nieuw bloedtest ontdekt vroeg stadium Alzheimer met hoge betrouwbaarheid",
+      "summary": "Een team van neurologen en biochemici bij Amsterdam UMC heeft een bloedtest ontwikkeld die de ziekte van Alzheimer jaren voor de eerste symptomen kan opsporen. De test meet de concentratie van het eiwit p-tau217 in het bloed en heeft een sensitiviteit van 91% in een studie met 850 deelnemers.",
+      "url": "https://www.amsterdamumc.org/nieuws/bloedtest-alzheimer",
+      "source": "Amsterdam UMC",
+      "published": "2026-07-06T13:12:56.156762+00:00",
+      "tags": [
+        "Neurologie",
+        "Diagnostiek & beeldvorming",
+        "Genomica & genetica"
+      ]
+    },
+    {
+      "id": "f4c15b5ef47e6ff6bb7102683535bc61",
+      "umc": "LUMC",
+      "title": "LUMC-onderzoekers kweken functioneel hartweefsel uit stamcellen",
+      "summary": "In een primeur voor Nederland zijn onderzoekers van het LUMC erin geslaagd volledig functioneel hartweefsel te kweken uit geïnduceerde pluripotente stamcellen (iPSC). Het weefsel klopt autonoom en kan worden gebruikt voor het testen van nieuwe hartziektemedicijnen zonder dierproeven.",
+      "url": "https://www.lumc.nl/nieuws/hartweefsel-stamcellen",
+      "source": "LUMC",
+      "published": "2026-07-06T12:12:56.156762+00:00",
+      "tags": [
+        "Regeneratieve geneeskunde",
+        "Cardiologie",
+        "Farmacologie"
+      ]
+    },
+    {
+      "id": "317166632004503ba1d94b09661bd318",
+      "umc": "UMCG",
+      "title": "UMCG-wetenschappers ontdekken nieuw type immuuncel dat tumoren vernietigt",
+      "summary": "Immunologen van het UMCG hebben een voorheen onbekend type T-cel geïdentificeerd dat in staat is om solide tumoren van binnenuit te vernietigen zonder omliggende gezond weefsel te beschadigen. De ontdekking, gepubliceerd in Science Immunology, kan leiden tot een nieuwe generatie kankertherapieën.",
+      "url": "https://www.umcg.nl/nieuws/nieuwe-immuuncel-tumoren",
+      "source": "UMCG",
+      "published": "2026-07-06T10:12:56.156762+00:00",
+      "tags": [
+        "Kanker & oncologie",
+        "Genomica & genetica",
+        "Farmacologie"
+      ]
+    },
+    {
+      "id": "7cd661479fdd434565b0e975ccc3d43b",
+      "umc": "Radboudumc",
+      "title": "Radboudumc en Philips lanceren AI-platform voor vroege sepsis-detectie op de IC",
+      "summary": "In samenwerking met Philips heeft Radboudumc een AI-systeem ontwikkeld dat sepsis (bloedvergiftiging) gemiddeld zes uur eerder detecteert dan artsen dat klinisch kunnen doen. Het systeem analyseert continu meer dan 200 vitale parameters en waarschuwt verplegend personeel via een app op hun smartphone.",
+      "url": "https://www.radboudumc.nl/nieuws/ai-sepsis-detectie",
+      "source": "Radboudumc",
+      "published": "2026-07-05T12:12:56.156762+00:00",
+      "tags": [
+        "AI & machine learning",
+        "Diagnostiek & beeldvorming",
+        "Infectieziekten"
+      ]
+    },
+    {
+      "id": "841a33d1f7aac07d486bf00713408d3f",
+      "umc": "Erasmus MC",
+      "title": "Groot doorbraak: Erasmus MC ontdekt genetische oorzaak zeldzame leverziekte",
+      "summary": "Onderzoekers van Erasmus MC hebben de genetische oorzaak ontdekt van een zeldzame, erfelijke leverziekte die wereldwijd zo'n 10.000 mensen treft. De ontdekking opent de weg voor gerichte gentherapie. Resultaten zijn gepubliceerd in Nature Medicine.",
+      "url": "https://www.erasmusmc.nl/nieuws/genetische-oorzaak-leverziekte",
+      "source": "Erasmus MC",
+      "published": "2026-07-05T10:12:56.156762+00:00",
+      "tags": [
+        "Genomica & genetica",
+        "Zeldzame ziekten",
+        "Farmacologie"
+      ]
+    },
+    {
+      "id": "4057129c11ea47f536a23a91b8cbab9f",
+      "umc": "LUMC",
+      "title": "CRISPR-behandeling van LUMC elimineert HIV-virus uit menselijke cellen in laboratorium",
+      "summary": "Wetenschappers van het LUMC hebben met CRISPR-Cas9 gen-editingtechnologie het HIV-virus volledig verwijderd uit geïnfecteerde menselijke cellen in laboratoriumomstandigheden. Dit is een belangrijke stap richting een definitieve genezing van aids, al zijn klinische studies nog jaren verwijderd.",
+      "url": "https://www.lumc.nl/nieuws/crispr-hiv-behandeling",
+      "source": "LUMC",
+      "published": "2026-07-04T05:12:56.156762+00:00",
+      "tags": [
+        "Genomica & genetica",
+        "Infectieziekten",
+        "Farmacologie"
+      ]
+    },
+    {
+      "id": "e944ecdd927758502912f7ccf3dcaf31",
+      "umc": "UMC Utrecht",
+      "title": "Nieuw type immunotherapie van UMC Utrecht geneest 43% van therapieresistente lymfomen",
+      "summary": "Een fase II-studie van UMC Utrecht met BiSpecifieke Antilichamen (BsAbs) toont aan dat 43% van de patiënten met therapieresistent non-Hodgkin lymfoom volledig in remissie gaat. De therapie koppelt T-cellen van de patiënt direct aan de tumorcellen, waarna het immuunsysteem de kanker vernietigt.",
+      "url": "https://www.umcutrecht.nl/nieuws/immunotherapie-lymfoom",
+      "source": "UMC Utrecht",
+      "published": "2026-07-04T05:12:56.156762+00:00",
+      "tags": [
+        "Kanker & oncologie",
+        "Farmacologie"
+      ]
+    },
+    {
+      "id": "4caec4cf6f7401307a7b9a4662946f78",
+      "umc": "Amsterdam UMC",
+      "title": "€4,2 miljoen EU-subsidie voor onderzoek naar orgaanoïden als vervanging dierproeven",
+      "summary": "Amsterdam UMC ontvangt een Europese subsidie van 4,2 miljoen euro voor het Horizon-project ORGANO-REPLACE, dat orgaanoïden (miniatuurorganen in een petrischaal) wil inzetten als ethischer alternatief voor dierproeven bij geneesmiddelenonderzoek.",
+      "url": "https://www.amsterdamumc.org/nieuws/eu-subsidie-organoïden",
+      "source": "Amsterdam UMC",
+      "published": "2026-07-03T09:12:56.156762+00:00",
+      "tags": [
+        "Regeneratieve geneeskunde",
+        "Farmacologie",
+        "Subsidie & samenwerking"
+      ]
+    },
+    {
+      "id": "4fcf309f095433faec88afe8bafc2622",
+      "umc": "UMCG",
+      "title": "UMCG opent nieuw centrum voor precisiegeneeskunde met supercomputer",
+      "summary": "Het UMCG opent het Groningen Institute for Precision Medicine (GIPM), uitgerust met een supercomputer die 10 petabyte aan genetische data kan verwerken. Het centrum richt zich op het koppelen van genomische profielen aan klinische uitkomsten voor gepersonaliseerde behandeling van kanker, diabetes en hart- en vaatziekten.",
+      "url": "https://www.umcg.nl/nieuws/precisiegeneeskunde-centrum",
+      "source": "UMCG",
+      "published": "2026-07-03T05:12:56.156762+00:00",
+      "tags": [
+        "Genomica & genetica",
+        "AI & machine learning",
+        "Subsidie & samenwerking"
+      ]
+    },
+    {
+      "id": "923c66def187f60c8f47c0d123d10b99",
+      "umc": "Maastricht UMC+",
+      "title": "Onderzoekers Maastricht ontdekken hoe darmflora bijdraagt aan depressie",
+      "summary": "Psychiaters en microbiologen van het Maastricht UMC+ publiceren baanbrekend onderzoek in Cell dat aantoont hoe specifieke darmbacteriën de productie van serotonine in de hersenen direct beïnvloeden. De bevindingen openen nieuwe therapeutische wegen voor de behandeling van therapieresistente depressie.",
+      "url": "https://www.mumc.nl/nieuws/darmflora-depressie",
+      "source": "Maastricht UMC+",
+      "published": "2026-07-02T13:12:56.156762+00:00",
+      "tags": [
+        "Neurologie",
+        "Genomica & genetica"
+      ]
+    },
+    {
+      "id": "a0c3f8f2b5f3ec6ffae74bd4ad1a36de",
+      "umc": "UMCG",
+      "title": "UMCG voert onderzoek uit tijdens Groningse 4Daagse - Drimble",
+      "summary": "UMCG voert onderzoek uit tijdens Groningse 4Daagse Drimble",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX19GREVEa1ctQ3pjQk9kakxFYzBiQm9Bd0NlckxvQW9jMVpjZVFzRm5ST3UzZG1oajhYTFY0bk05bWVfVmFZeHFlRHViUUc1R2xyOVB1R3NhOXhvZkl2MWFWeUtyNGFSN05PdlN3dGNiNkJ2ZUVTR01zSXo2VFUyQmprTVRTcjZOWGdJV25BbzhDVEljcklCVXBNN3A1SVQ4dFZhbzRacTEzUHBqUER0TV9aYlNfdw?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-02T13:07:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "25da96bb20211f4120ab8e6445a352e6",
+      "umc": "Maastricht UMC+",
+      "title": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie - 3Heuvelland",
+      "summary": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie 3Heuvelland",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX2NHQzd2TW5VbFVuckFNT0NtdUFIcURkZEZHcU5tdmVPanAwSVAyTlNsNVAxZlRMV19mUjhmbThWR185TjBOaERtZ195eC0zTE1UV0tUY0NrZnVRY2hPcjhFM2xBZGhuUFhHNUk2RmdlY2pkWURKTDBWZTk4Sm0xWVRYSmtpdnhzdzU3b29qM1Q1akpfc3VocVpCU0lac0JaV3k0UTNpSEJ0S2VKQ2U3Sg?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T13:43:19+00:00",
+      "tags": []
+    },
+    {
+      "id": "60e45a3b98e93681ab2e1b16e161f736",
+      "umc": "Erasmus MC",
+      "title": "Robotarm helpt neurochirurgen bij precisie-operaties aan de hersenstam",
+      "summary": "Het Erasmus MC introduceert een geavanceerde robotarm die neurochirurgen ondersteunt bij extreem delicate operaties aan de hersenstam. Het systeem filtert ongewenste trillingen van de hand van de chirurg en vergroot de precisie met een factor tien, waarmee operaties die voorheen te riskant waren nu veilig kunnen worden uitgevoerd.",
+      "url": "https://www.erasmusmc.nl/nieuws/robotarm-neurochirurgie",
+      "source": "Erasmus MC",
+      "published": "2026-07-01T11:12:56.156762+00:00",
+      "tags": [
+        "Chirurgie & robotica",
+        "Neurologie",
+        "AI & machine learning"
+      ]
+    },
+    {
+      "id": "4ccb8e5c22f1cbe8c19c9498821b4056",
+      "umc": "UMCG",
+      "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - Groninger Internet Courant",
+      "summary": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht Groninger Internet Courant",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHF5Y0Y0VHFQOXJMbUdoS3NXeFFmcWVsc3doMXkybTZ4aGY5U3ZWcGw5OUJrQVBNTWw5OHRhMXI3M3E1c2ozU1Myc1RKMjZFLS1PYUI2ZUdBNXF0S3NLcEpyU3VIamxuRkdwSTVLZlZzR0tiZGdYYzNLT2p4bTQ1SFg5S2I4cTBzaFAtNzdRZEQyR2dJeGFGM3FWaS1wRVJGVEdWLWtrSkRMTjRLempNSG9nanc5aWVkWFp4aDBQZVRQRWNiZ0E0RA?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T08:26:43+00:00",
+      "tags": [
+        "Farmacologie"
+      ]
+    },
+    {
+      "id": "a0b51543b6f91a3f2b4e6dc3b43e1f43",
+      "umc": "Maastricht UMC+",
+      "title": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst - De Nieuwe Ster Maastricht",
+      "summary": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst De Nieuwe Ster Maastricht",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWtJMV91a1ZYYmtLVU9tNGpvWUtKTUJ2cGtxWk5VUEwtbXRUNzZZS0dIYml3Y1Q0ZnRLRk8zbFctenRQWUxCNkxYMXdpRjFoby1lT2czczlFNENjUXdsXzZRYXUwMlQ0b2ZOYWR2M1ZlaVNQZnkwRkN0dERMM1VqU2hyTFlOYmg5ZXJtQnRtczVadnRILUdaaU1wUVN5ZGE2RW9OMg?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T07:33:08+00:00",
+      "tags": []
+    },
+    {
+      "id": "f94f7b51cb7764d2701b3fd87b39ec36",
+      "umc": "LUMC",
+      "title": "Nieuwe MRI-techniek van LUMC maakt onzichtbare hersentumoren detecteerbaar",
+      "summary": "Een team van radiologen en fysici bij het LUMC heeft een nieuwe MRI-techniek ontwikkeld die gebruik maakt van hyperpolariseerde koolstof-13 als contrastmiddel. Met deze techniek worden gliomen die voor conventionele MRI onzichtbaar zijn voor het eerst detecteerbaar in een vroeg en nog behandelbaar stadium.",
+      "url": "https://www.lumc.nl/nieuws/mri-techniek-hersentumoren",
+      "source": "LUMC",
+      "published": "2026-06-30T12:12:56.156762+00:00",
+      "tags": [
+        "Diagnostiek & beeldvorming",
+        "Kanker & oncologie",
+        "Neurologie"
+      ]
+    },
+    {
+      "id": "132f08100406f202d7e5b7ac2f86ff41",
+      "umc": "Radboudumc",
+      "title": "Eerste succesvolle gentherapie voor erfelijke doofheid bij baby's in Nederland",
+      "summary": "Radboudumc heeft als eerste ziekenhuis in Nederland gentherapie toegepast bij twee baby's met aangeboren doofheid door een mutatie in het OTOF-gen. Na de behandeling met een virale vector die het correcte gen inbrengt, reageerden beide kinderen binnen acht weken aantoonbaar op geluid.",
+      "url": "https://www.radboudumc.nl/nieuws/gentherapie-doofheid",
+      "source": "Radboudumc",
+      "published": "2026-06-28T10:12:56.156762+00:00",
+      "tags": [
+        "Genomica & genetica",
+        "Farmacologie",
+        "Zeldzame ziekten"
+      ]
+    },
+    {
+      "id": "b4dda341643f2a7946854e5fd17472e9",
+      "umc": "UMC Utrecht",
+      "title": "UMC Utrecht en RIVM lanceren nationaal biobank-netwerk voor pandemie-paraatheid",
+      "summary": "UMC Utrecht en het RIVM hebben samen het Nationaal Pandemie-Paraatheidsnetwerk opgericht, een samenwerkingsverband van 12 ziekenhuizen dat in geval van een nieuwe pandemie binnen 72 uur kan beginnen met het verzamelen, analyseren en delen van biomaterialen en klinische data.",
+      "url": "https://www.umcutrecht.nl/nieuws/biobank-netwerk-pandemie",
+      "source": "UMC Utrecht",
+      "published": "2026-06-26T10:12:56.156762+00:00",
+      "tags": [
+        "Infectieziekten",
+        "Subsidie & samenwerking",
+        "Diagnostiek & beeldvorming"
+      ]
+    },
+    {
+      "id": "d7adcce7ee79e22d64827ede62405924",
+      "umc": "LUMC",
+      "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - Leids Universitair Medisch Centrum | LUMC",
+      "summary": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek Leids Universitair Medisch Centrum | LUMC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wV0JhNDhaOXpiZjd0cjBjejJDb2dyeHFja3BFS3VsMUxnNF90MnlnUmJFajY1NlJ2YVdLb2xJU2Z5MTBzZDZpY19WX0poT1F5RzM5bDNaLXRnODFzU241alVhZ0ZoOFJ4bzY5SGNIbzZLT3VTYXUzNHlVdjQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-26T07:00:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "a2e2a53c608e429fe06450f936c64f5f",
+      "umc": "LUMC",
+      "title": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker - Leids Universitair Medisch Centrum | LUMC",
+      "summary": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker Leids Universitair Medisch Centrum | LUMC",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWW5teFJSVEI2dHBZT1V1MUJ1SnF6T2RPNTlmOTgxS3dBUmxHTVpiYXM5eEVEdklGdUVFcGhwUXR1MWRaOEVzc1p6dVdGNDFfRHdYYUhWMW4xZWMxZUh5N2xlNmtpTlVuOUJuZjM5Vzczd3RfZ3B1bjd3QVNodnV2LTVOeDFmdldud1NFOVFDVEZIMktEZllkSzNHWTZ6cmxDWUhxNk9JMnpLdHplU0NXY09hc0x3UQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-24T06:57:10+00:00",
+      "tags": [
+        "Kanker & oncologie",
+        "Farmacologie"
+      ]
+    },
+    {
+      "id": "0de04880c09ff10e705db65056014160",
+      "umc": "Maastricht UMC+",
+      "title": "Zuyderland en Maastricht UMC+ krijgen subsidie voor acht gezamenlijke onderzoeken - Heuvelland Vandaag",
+      "summary": "Zuyderland en Maastricht UMC+ krijgen subsidie voor acht gezamenlijke onderzoeken Heuvelland Vandaag",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMGlVODhnbFUxeHY1aXdXLUZzUEFySGRrTTlvSVFQYmZ1dVdzeFktU01rMjMwTzBVTGt3cXhJUUpVYkFHamJFTFVIWU1XNnVkNEVVMy0weGJRZlJJVTNVR2JvcXRobEJadXZNUnpRMVp0Tl9mbEJPQTNJYzl2N2kzdFBUT0xyT252MnhzaFo1cUdxLXN1di1zaUxpYzFXUlRFZjZVNlc1Sm1VOUpuOUxiRTFQVQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-15T07:00:00+00:00",
+      "tags": [
+        "Genomica & genetica",
+        "Subsidie & samenwerking"
+      ]
+    },
+    {
+      "id": "167ee7760a43aad06421ab4ebbe5defb",
+      "umc": "Maastricht UMC+",
+      "title": "Uniek waterfilter onderzoekt het verwijderen van medicijnresten uit afvalwater - Maastricht UMC+",
+      "summary": "Uniek waterfilter onderzoekt het verwijderen van medicijnresten uit afvalwater Maastricht UMC+",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGhwVlNSUjBYR29TNlVtVGVRTUJrOE9TdHhXdXBOay1Uc3FobEc4bmJjdkI5cmFhelJFYTBfQ0J6SjJKRG1EbVAzVHUwaDI4bDVEMHJBRC10MDVIN1RfenZIeFZITDlMbWgtak5BaEs3RERwQWh0clZ3RlVJbXAwSWpkMXBlU08yVTJ3OWZqd1NaODJlNXpXRjAxM1dqbF9hcXRfdkpYRF9iRlpCQnNzYi1Sdw?oc=5",
+      "source": "NEWS",
+      "published": "2026-05-27T07:00:00+00:00",
+      "tags": [
+        "Farmacologie"
+      ]
+    },
+    {
+      "id": "b40a480b7988b52ef106a228e2ca3b63",
+      "umc": "Amsterdam UMC",
+      "title": "Meer inzicht in koppen door onderzoek KNVB en Amsterdam UMC - KNVB",
+      "summary": "Meer inzicht in koppen door onderzoek KNVB en Amsterdam UMC KNVB",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVJhd3lDdWRaaTJHTVc0ZXpBY05fT29FMktjVnVpR1NqSmRvdnRHQmFYd3hvNzdBZ2RLZWpabENvY1VCQ1JLOHllNWRMWDAyRWZHb1dGSE8xV0dSa0IwWVBySjNvZ21jeTBuQ0FTbXdXOUpLQ2tVcHYtTk1nRHcwbzZlcUdaelpCdlJMa2xGQ1poU213UlU3bzRBZVRNQU9YMmNXd01mbXV4YXRTNm9jOQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-05-18T07:00:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "7afcb07f3442466bbe2dd0154f90cba2",
+      "umc": "UMCG",
+      "title": "UMCG-onderzoekers: 'Eeuwenoud medicijn goed voor patiënten met hartfalen' - Groninger Internet Courant",
+      "summary": "UMCG-onderzoekers: 'Eeuwenoud medicijn goed voor patiënten met hartfalen' Groninger Internet Courant",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXRrekdiVHJjbGlrNENBM2F0MmJpY3BpVkNBQlNtMnRCc21seVpEZE5WVzNwMXAtNVhPd0xIenFJdlJ2Zzdad2I2S1I2Tlc3QkNtMEpWU2lmZldxbDl6N1lzOVY1SzVvQU5pSXM2eGRCLXphMFp6UmF1eXViNkdXbFJaM0R1amRYZFAxR1MyNDJITFl3UTJF?oc=5",
+      "source": "NEWS",
+      "published": "2026-05-12T07:42:26+00:00",
+      "tags": [
+        "Cardiologie",
+        "Farmacologie"
+      ]
+    },
+    {
+      "id": "abdb0fa17301abf145357fadf868000d",
+      "umc": "UMC Utrecht",
+      "title": "Feiten en fabels over immuuntherapie - UMC Utrecht",
+      "summary": "Feiten en fabels over immuuntherapie UMC Utrecht",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9udExmVmRiT2VRMzlzaEhTZi1HS1hHdFFEQWx4a2JSU0JNXzZtcnhkaWtCd0V2eUkxUGZENXZaZE5LMHF2Q3ZqZ1pUX2lwME14VC1CbkVJb0t6bTRwc1U4Ylp4TVNrQzJfZGVyeDR6OXlBRjY1al9COA?oc=5",
+      "source": "NEWS",
+      "published": "2026-05-11T07:00:00+00:00",
+      "tags": [
+        "Farmacologie"
+      ]
+    }
+  ]
+}
