@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09T08:41:53.965082+00:00",
-  "total": 30,
+  "last_updated": "2026-07-10T13:35:26.011799+00:00",
+  "total": 32,
   "articles": [
     {
       "id": "2e721c5fb6da35f68c0935cf7023fefd",
@@ -307,6 +307,16 @@
       ]
     },
     {
+      "id": "18cd9261cd32d298481a9ac74e5609a3",
+      "umc": "LUMC",
+      "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - LUMC",
+      "summary": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek LUMC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wV0JhNDhaOXpiZjd0cjBjejJDb2dyeHFja3BFS3VsMUxnNF90MnlnUmJFajY1NlJ2YVdLb2xJU2Z5MTBzZDZpY19WX0poT1F5RzM5bDNaLXRnODFzU241alVhZ0ZoOFJ4bzY5SGNIbzZLT3VTYXUzNHlVdjQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-26T07:00:00+00:00",
+      "tags": []
+    },
+    {
       "id": "d7adcce7ee79e22d64827ede62405924",
       "umc": "LUMC",
       "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - Leids Universitair Medisch Centrum | LUMC",
@@ -315,6 +325,19 @@
       "source": "NEWS",
       "published": "2026-06-26T07:00:00+00:00",
       "tags": []
+    },
+    {
+      "id": "395b14be0d9a181b9a94eddc0cf426bc",
+      "umc": "LUMC",
+      "title": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker - LUMC",
+      "summary": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker LUMC",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWW5teFJSVEI2dHBZT1V1MUJ1SnF6T2RPNTlmOTgxS3dBUmxHTVpiYXM5eEVEdklGdUVFcGhwUXR1MWRaOEVzc1p6dVdGNDFfRHdYYUhWMW4xZWMxZUh5N2xlNmtpTlVuOUJuZjM5Vzczd3RfZ3B1bjd3QVNodnV2LTVOeDFmdldud1NFOVFDVEZIMktEZllkSzNHWTZ6cmxDWUhxNk9JMnpLdHplU0NXY09hc0x3UQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-24T06:57:10+00:00",
+      "tags": [
+        "Kanker & oncologie",
+        "Farmacologie"
+      ]
     },
     {
       "id": "a2e2a53c608e429fe06450f936c64f5f",
