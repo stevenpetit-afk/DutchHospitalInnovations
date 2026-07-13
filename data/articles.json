@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-11T10:43:38.600351+00:00",
-  "total": 32,
+  "last_updated": "2026-07-13T16:08:44.780812+00:00",
+  "total": 34,
   "articles": [
     {
       "id": "2e721c5fb6da35f68c0935cf7023fefd",
@@ -219,6 +219,16 @@
       "tags": []
     },
     {
+      "id": "6c4dc6601277e6a98ff8f18c15c61c39",
+      "umc": "Maastricht UMC+",
+      "title": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie - 1zuid.nl",
+      "summary": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie 1zuid.nl",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX2NHQzd2TW5VbFVuckFNT0NtdUFIcURkZEZHcU5tdmVPanAwSVAyTlNsNVAxZlRMV19mUjhmbThWR185TjBOaERtZ195eC0zTE1UV0tUY0NrZnVRY2hPcjhFM2xBZGhuUFhHNUk2RmdlY2pkWURKTDBWZTk4Sm0xWVRYSmtpdnhzdzU3b29qM1Q1akpfc3VocVpCU0lac0JaV3k0UTNpSEJ0S2VKQ2U3Sg?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T13:43:19+00:00",
+      "tags": []
+    },
+    {
       "id": "25da96bb20211f4120ab8e6445a352e6",
       "umc": "Maastricht UMC+",
       "title": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie - 3Heuvelland",
@@ -333,7 +343,7 @@
       "summary": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker Leids Universitair Medisch Centrum | LUMC",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWW5teFJSVEI2dHBZT1V1MUJ1SnF6T2RPNTlmOTgxS3dBUmxHTVpiYXM5eEVEdklGdUVFcGhwUXR1MWRaOEVzc1p6dVdGNDFfRHdYYUhWMW4xZWMxZUh5N2xlNmtpTlVuOUJuZjM5Vzczd3RfZ3B1bjd3QVNodnV2LTVOeDFmdldud1NFOVFDVEZIMktEZllkSzNHWTZ6cmxDWUhxNk9JMnpLdHplU0NXY09hc0x3UQ?oc=5",
       "source": "NEWS",
-      "published": "2026-06-24T06:57:10+00:00",
+      "published": "2026-06-24T07:00:00+00:00",
       "tags": [
         "Kanker & oncologie",
         "Farmacologie"
@@ -410,6 +420,18 @@
       "published": "2026-05-11T07:00:00+00:00",
       "tags": [
         "Farmacologie"
+      ]
+    },
+    {
+      "id": "46e6cfad9d0c6756349a14d3782410a2",
+      "umc": "LUMC",
+      "title": "‘Alleen zo kunnen we voorbereid zijn op zowel bekende als nieuwe infectieziekten’ - Leids Universitair Medisch Centrum | LUMC",
+      "summary": "‘Alleen zo kunnen we voorbereid zijn op zowel bekende als nieuwe infectieziekten’ Leids Universitair Medisch Centrum | LUMC",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yS0l3QTNmUXh3Q25kT290ZEY5eDRPQklqYWNaQ1NZUUh2TGN2WFJmYUEwU01MbGdDOEVlcEdxSnJTaWJrZVdYSjV5NjA1YWF2RkJaX0ozU3ZsY083V1QyV1dYTzlYbzR5MlE?oc=5",
+      "source": "NEWS",
+      "published": "2026-04-28T07:23:13+00:00",
+      "tags": [
+        "Infectieziekten"
       ]
     }
   ]
