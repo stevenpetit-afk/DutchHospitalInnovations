@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-25T08:27:36.428681+00:00",
-  "total": 36,
+  "last_updated": "2026-07-26T08:42:45.659419+00:00",
+  "total": 38,
   "articles": [
     {
       "id": "528abbc7d2f0f1c12bae977f47e77535",
@@ -279,18 +279,6 @@
       ]
     },
     {
-      "id": "4ccb8e5c22f1cbe8c19c9498821b4056",
-      "umc": "UMCG",
-      "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - Groninger Internet Courant",
-      "summary": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht Groninger Internet Courant",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHF5Y0Y0VHFQOXJMbUdoS3NXeFFmcWVsc3doMXkybTZ4aGY5U3ZWcGw5OUJrQVBNTWw5OHRhMXI3M3E1c2ozU1Myc1RKMjZFLS1PYUI2ZUdBNXF0S3NLcEpyU3VIamxuRkdwSTVLZlZzR0tiZGdYYzNLT2p4bTQ1SFg5S2I4cTBzaFAtNzdRZEQyR2dJeGFGM3FWaS1wRVJGVEdWLWtrSkRMTjRLempNSG9nanc5aWVkWFp4aDBQZVRQRWNiZ0E0RA?oc=5",
-      "source": "NEWS",
-      "published": "2026-07-01T08:26:43+00:00",
-      "tags": [
-        "Farmacologie"
-      ]
-    },
-    {
       "id": "a0b51543b6f91a3f2b4e6dc3b43e1f43",
       "umc": "Maastricht UMC+",
       "title": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst - De Nieuwe Ster Maastricht",
@@ -299,6 +287,18 @@
       "source": "NEWS",
       "published": "2026-07-01T07:33:08+00:00",
       "tags": []
+    },
+    {
+      "id": "4ccb8e5c22f1cbe8c19c9498821b4056",
+      "umc": "UMCG",
+      "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - Groninger Internet Courant",
+      "summary": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht Groninger Internet Courant",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHF5Y0Y0VHFQOXJMbUdoS3NXeFFmcWVsc3doMXkybTZ4aGY5U3ZWcGw5OUJrQVBNTWw5OHRhMXI3M3E1c2ozU1Myc1RKMjZFLS1PYUI2ZUdBNXF0S3NLcEpyU3VIamxuRkdwSTVLZlZzR0tiZGdYYzNLT2p4bTQ1SFg5S2I4cTBzaFAtNzdRZEQyR2dJeGFGM3FWaS1wRVJGVEdWLWtrSkRMTjRLempNSG9nanc5aWVkWFp4aDBQZVRQRWNiZ0E0RA?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T07:00:00+00:00",
+      "tags": [
+        "Farmacologie"
+      ]
     },
     {
       "id": "f94f7b51cb7764d2701b3fd87b39ec36",
@@ -386,6 +386,32 @@
       "tags": [
         "Kanker & oncologie",
         "Farmacologie"
+      ]
+    },
+    {
+      "id": "b6041d50e294f934324475304b9e0d8c",
+      "umc": "Maastricht UMC+",
+      "title": "Zuyderland en Maastricht UMC+ krijgen subsidie voor acht gezamenlijke onderzoeken - Mijnstreek Vandaag",
+      "summary": "Zuyderland en Maastricht UMC+ krijgen subsidie voor acht gezamenlijke onderzoeken Mijnstreek Vandaag",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWU3Uk41QXRMbVloeVVveEI1clI1OEh0N3dweTRJUUhZdmNqTzJ3VzBXTEJ6aXAweVFjMGlhSnBzTW5vWHhrTTJNbmVNQlNBdTE5YU9MeXdqNmYweFJGV3BZaEMzWFhPYmlIUXpBSlBzMGFjZURiMXMzWnlFYloyLW1PaWNINzRkYjBFRFpVWkVOdUQ0dUdyS1hFYmZjNm5tRUgxeEx6bW5YNVJyeTJ1Y19Saw?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-15T07:00:00+00:00",
+      "tags": [
+        "Genomica & genetica",
+        "Subsidie & samenwerking"
+      ]
+    },
+    {
+      "id": "4cb9b53935afd8444c3048c81b53ef5c",
+      "umc": "Maastricht UMC+",
+      "title": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie - Parkstad Actueel",
+      "summary": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie Parkstad Actueel",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2FZby1LRGhrUUNOSDZIemM3M2NHNHlzMU9NbHk0dTlVQ0ZTcHczYkNmNGoyYlJVdjN0ODduRHd3Rmx0MEZzb0xScFNpcVAtckwzT1ROekJLRTlzSVBIV3l3ME4xTnh3cHdnRktNZXg2WU9ZcEphNlZIV0xleG1QZkdOUnJXMXlOQ1phR0V0M0hKZEFCYTNRX2xUcHZ6cWJnU1pob2FvSlVLQktpQ01iY2N1TnM5WHRUU0E?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-15T07:00:00+00:00",
+      "tags": [
+        "Genomica & genetica",
+        "Subsidie & samenwerking"
       ]
     },
     {
