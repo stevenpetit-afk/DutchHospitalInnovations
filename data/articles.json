@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T09:08:43.589792+00:00",
-  "total": 41,
+  "last_updated": "2026-07-31T09:22:16.486790+00:00",
+  "total": 44,
   "articles": [
     {
       "id": "db470e966aa05e1c2b427a6ceae102e6",
@@ -325,6 +325,18 @@
       "tags": []
     },
     {
+      "id": "8ab5b20ebfecf2bc478937e9fe5b7fce",
+      "umc": "UMCG",
+      "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - gic.nl",
+      "summary": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht gic.nl",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHF5Y0Y0VHFQOXJMbUdoS3NXeFFmcWVsc3doMXkybTZ4aGY5U3ZWcGw5OUJrQVBNTWw5OHRhMXI3M3E1c2ozU1Myc1RKMjZFLS1PYUI2ZUdBNXF0S3NLcEpyU3VIamxuRkdwSTVLZlZzR0tiZGdYYzNLT2p4bTQ1SFg5S2I4cTBzaFAtNzdRZEQyR2dJeGFGM3FWaS1wRVJGVEdWLWtrSkRMTjRLempNSG9nanc5aWVkWFp4aDBQZVRQRWNiZ0E0RA?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T07:00:00+00:00",
+      "tags": [
+        "Farmacologie"
+      ]
+    },
+    {
       "id": "4ccb8e5c22f1cbe8c19c9498821b4056",
       "umc": "UMCG",
       "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - Groninger Internet Courant",
@@ -399,19 +411,6 @@
       "tags": []
     },
     {
-      "id": "395b14be0d9a181b9a94eddc0cf426bc",
-      "umc": "LUMC",
-      "title": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker - LUMC",
-      "summary": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker LUMC",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWW5teFJSVEI2dHBZT1V1MUJ1SnF6T2RPNTlmOTgxS3dBUmxHTVpiYXM5eEVEdklGdUVFcGhwUXR1MWRaOEVzc1p6dVdGNDFfRHdYYUhWMW4xZWMxZUh5N2xlNmtpTlVuOUJuZjM5Vzczd3RfZ3B1bjd3QVNodnV2LTVOeDFmdldud1NFOVFDVEZIMktEZllkSzNHWTZ6cmxDWUhxNk9JMnpLdHplU0NXY09hc0x3UQ?oc=5",
-      "source": "NEWS",
-      "published": "2026-06-24T07:00:00+00:00",
-      "tags": [
-        "Kanker & oncologie",
-        "Farmacologie"
-      ]
-    },
-    {
       "id": "a2e2a53c608e429fe06450f936c64f5f",
       "umc": "LUMC",
       "title": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker - Leids Universitair Medisch Centrum | LUMC",
@@ -425,11 +424,37 @@
       ]
     },
     {
+      "id": "395b14be0d9a181b9a94eddc0cf426bc",
+      "umc": "LUMC",
+      "title": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker - LUMC",
+      "summary": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker LUMC",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWW5teFJSVEI2dHBZT1V1MUJ1SnF6T2RPNTlmOTgxS3dBUmxHTVpiYXM5eEVEdklGdUVFcGhwUXR1MWRaOEVzc1p6dVdGNDFfRHdYYUhWMW4xZWMxZUh5N2xlNmtpTlVuOUJuZjM5Vzczd3RfZ3B1bjd3QVNodnV2LTVOeDFmdldud1NFOVFDVEZIMktEZllkSzNHWTZ6cmxDWUhxNk9JMnpLdHplU0NXY09hc0x3UQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-24T06:57:16+00:00",
+      "tags": [
+        "Kanker & oncologie",
+        "Farmacologie"
+      ]
+    },
+    {
       "id": "b6041d50e294f934324475304b9e0d8c",
       "umc": "Maastricht UMC+",
       "title": "Zuyderland en Maastricht UMC+ krijgen subsidie voor acht gezamenlijke onderzoeken - Mijnstreek Vandaag",
       "summary": "Zuyderland en Maastricht UMC+ krijgen subsidie voor acht gezamenlijke onderzoeken Mijnstreek Vandaag",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWU3Uk41QXRMbVloeVVveEI1clI1OEh0N3dweTRJUUhZdmNqTzJ3VzBXTEJ6aXAweVFjMGlhSnBzTW5vWHhrTTJNbmVNQlNBdTE5YU9MeXdqNmYweFJGV3BZaEMzWFhPYmlIUXpBSlBzMGFjZURiMXMzWnlFYloyLW1PaWNINzRkYjBFRFpVWkVOdUQ0dUdyS1hFYmZjNm5tRUgxeEx6bW5YNVJyeTJ1Y19Saw?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-15T07:00:00+00:00",
+      "tags": [
+        "Genomica & genetica",
+        "Subsidie & samenwerking"
+      ]
+    },
+    {
+      "id": "c2f7079c29bc957356fd340fc07724b7",
+      "umc": "Maastricht UMC+",
+      "title": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie - parkstadactueel.nl",
+      "summary": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie parkstadactueel.nl",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2FZby1LRGhrUUNOSDZIemM3M2NHNHlzMU9NbHk0dTlVQ0ZTcHczYkNmNGoyYlJVdjN0ODduRHd3Rmx0MEZzb0xScFNpcVAtckwzT1ROekJLRTlzSVBIV3l3ME4xTnh3cHdnRktNZXg2WU9ZcEphNlZIV0xleG1QZkdOUnJXMXlOQ1phR0V0M0hKZEFCYTNRX2xUcHZ6cWJnU1pob2FvSlVLQktpQ01iY2N1TnM5WHRUU0E?oc=5",
       "source": "NEWS",
       "published": "2026-06-15T07:00:00+00:00",
       "tags": [
@@ -474,6 +499,16 @@
       "tags": [
         "Farmacologie"
       ]
+    },
+    {
+      "id": "c68889e2eab47e6b6bef47797998ac4b",
+      "umc": "Amsterdam UMC",
+      "title": "Meer inzicht in koppen door onderzoek KNVB en Amsterdam UMC - knvb.nl",
+      "summary": "Meer inzicht in koppen door onderzoek KNVB en Amsterdam UMC knvb.nl",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVJhd3lDdWRaaTJHTVc0ZXpBY05fT29FMktjVnVpR1NqSmRvdnRHQmFYd3hvNzdBZ2RLZWpabENvY1VCQ1JLOHllNWRMWDAyRWZHb1dGSE8xV0dSa0IwWVBySjNvZ21jeTBuQ0FTbXdXOUpLQ2tVcHYtTk1nRHcwbzZlcUdaelpCdlJMa2xGQ1poU213UlU3bzRBZVRNQU9YMmNXd01mbXV4YXRTNm9jOQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-05-18T07:00:00+00:00",
+      "tags": []
     },
     {
       "id": "b40a480b7988b52ef106a228e2ca3b63",
