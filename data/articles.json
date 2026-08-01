@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-31T09:22:16.486790+00:00",
-  "total": 44,
+  "last_updated": "2026-08-01T08:37:21.028274+00:00",
+  "total": 45,
   "articles": [
+    {
+      "id": "b7f0e2264d0c1b2a855f052792bbc3d7",
+      "umc": "Radboudumc",
+      "title": "Onderzoek: blootstelling hantavirus Radboudumc was te vermijden - Drimble",
+      "summary": "Onderzoek: blootstelling hantavirus Radboudumc was te vermijden Drimble",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbENMd2x6aEt4WW9qb0VXTnlRaDg2NHJhV0hqQlE1VWxYZ2VqdzRHMk1KUEFrbzl1cnBOd3kyLThsLXFiR0FTcEhlMDdYR2tmTDloVDZoUDRiVDhzblUwUW8zVy1WRzVKb1pQcFVrTC0wVW1xOUJCX2t6WXFVZUhTdkcwaFpVUFZ6TzdBMEtBazRPbXJZTkE3bWNPRWZlUVdyTEJIYUlBRGJOVlNvTVNhRVZJRjF4VUVfaDZQUHRXMA?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-31T15:18:20+00:00",
+      "tags": [
+        "Infectieziekten"
+      ]
+    },
     {
       "id": "db470e966aa05e1c2b427a6ceae102e6",
       "umc": "Maastricht UMC+",
@@ -450,10 +462,10 @@
       ]
     },
     {
-      "id": "c2f7079c29bc957356fd340fc07724b7",
+      "id": "4cb9b53935afd8444c3048c81b53ef5c",
       "umc": "Maastricht UMC+",
-      "title": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie - parkstadactueel.nl",
-      "summary": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie parkstadactueel.nl",
+      "title": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie - Parkstad Actueel",
+      "summary": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie Parkstad Actueel",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2FZby1LRGhrUUNOSDZIemM3M2NHNHlzMU9NbHk0dTlVQ0ZTcHczYkNmNGoyYlJVdjN0ODduRHd3Rmx0MEZzb0xScFNpcVAtckwzT1ROekJLRTlzSVBIV3l3ME4xTnh3cHdnRktNZXg2WU9ZcEphNlZIV0xleG1QZkdOUnJXMXlOQ1phR0V0M0hKZEFCYTNRX2xUcHZ6cWJnU1pob2FvSlVLQktpQ01iY2N1TnM5WHRUU0E?oc=5",
       "source": "NEWS",
       "published": "2026-06-15T07:00:00+00:00",
@@ -463,10 +475,10 @@
       ]
     },
     {
-      "id": "4cb9b53935afd8444c3048c81b53ef5c",
+      "id": "c2f7079c29bc957356fd340fc07724b7",
       "umc": "Maastricht UMC+",
-      "title": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie - Parkstad Actueel",
-      "summary": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie Parkstad Actueel",
+      "title": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie - parkstadactueel.nl",
+      "summary": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie parkstadactueel.nl",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2FZby1LRGhrUUNOSDZIemM3M2NHNHlzMU9NbHk0dTlVQ0ZTcHczYkNmNGoyYlJVdjN0ODduRHd3Rmx0MEZzb0xScFNpcVAtckwzT1ROekJLRTlzSVBIV3l3ME4xTnh3cHdnRktNZXg2WU9ZcEphNlZIV0xleG1QZkdOUnJXMXlOQ1phR0V0M0hKZEFCYTNRX2xUcHZ6cWJnU1pob2FvSlVLQktpQ01iY2N1TnM5WHRUU0E?oc=5",
       "source": "NEWS",
       "published": "2026-06-15T07:00:00+00:00",
@@ -501,20 +513,20 @@
       ]
     },
     {
-      "id": "c68889e2eab47e6b6bef47797998ac4b",
+      "id": "b40a480b7988b52ef106a228e2ca3b63",
       "umc": "Amsterdam UMC",
-      "title": "Meer inzicht in koppen door onderzoek KNVB en Amsterdam UMC - knvb.nl",
-      "summary": "Meer inzicht in koppen door onderzoek KNVB en Amsterdam UMC knvb.nl",
+      "title": "Meer inzicht in koppen door onderzoek KNVB en Amsterdam UMC - KNVB",
+      "summary": "Meer inzicht in koppen door onderzoek KNVB en Amsterdam UMC KNVB",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVJhd3lDdWRaaTJHTVc0ZXpBY05fT29FMktjVnVpR1NqSmRvdnRHQmFYd3hvNzdBZ2RLZWpabENvY1VCQ1JLOHllNWRMWDAyRWZHb1dGSE8xV0dSa0IwWVBySjNvZ21jeTBuQ0FTbXdXOUpLQ2tVcHYtTk1nRHcwbzZlcUdaelpCdlJMa2xGQ1poU213UlU3bzRBZVRNQU9YMmNXd01mbXV4YXRTNm9jOQ?oc=5",
       "source": "NEWS",
       "published": "2026-05-18T07:00:00+00:00",
       "tags": []
     },
     {
-      "id": "b40a480b7988b52ef106a228e2ca3b63",
+      "id": "c68889e2eab47e6b6bef47797998ac4b",
       "umc": "Amsterdam UMC",
-      "title": "Meer inzicht in koppen door onderzoek KNVB en Amsterdam UMC - KNVB",
-      "summary": "Meer inzicht in koppen door onderzoek KNVB en Amsterdam UMC KNVB",
+      "title": "Meer inzicht in koppen door onderzoek KNVB en Amsterdam UMC - knvb.nl",
+      "summary": "Meer inzicht in koppen door onderzoek KNVB en Amsterdam UMC knvb.nl",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVJhd3lDdWRaaTJHTVc0ZXpBY05fT29FMktjVnVpR1NqSmRvdnRHQmFYd3hvNzdBZ2RLZWpabENvY1VCQ1JLOHllNWRMWDAyRWZHb1dGSE8xV0dSa0IwWVBySjNvZ21jeTBuQ0FTbXdXOUpLQ2tVcHYtTk1nRHcwbzZlcUdaelpCdlJMa2xGQ1poU213UlU3bzRBZVRNQU9YMmNXd01mbXV4YXRTNm9jOQ?oc=5",
       "source": "NEWS",
       "published": "2026-05-18T07:00:00+00:00",
