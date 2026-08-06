@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-05T09:15:15.821425+00:00",
-  "total": 45,
+  "last_updated": "2026-08-06T09:17:50.796995+00:00",
+  "total": 47,
   "articles": [
+    {
+      "id": "3a23c3057d417330f3b46d5d4adf8883",
+      "umc": "Radboudumc",
+      "title": "Quarantaine medewerkers Radboudumc had voorkomen kunnen worden, blijkt uit onderzoek - bnr.nl",
+      "summary": "Quarantaine medewerkers Radboudumc had voorkomen kunnen worden, blijkt uit onderzoek bnr.nl",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOajdlSmtCeTNZczBsUWZGRkxQLWlmRF9CWTBrcEp6NTlPdlh1QkhHTHVsc0FsRTZkSl9KQ0F2UGYwbjI3a0lzc0Z0Q245ZU9KNDhWQU1MRDBJY0pEd3hvbVVha0FTVTZYREY2OEhlYjhGN3MtOEVnTGJCcGZWMWtTRkc2Q1RhamM4MlpGRDJfSmN4TzZvUVdoYzd2X0ZZS3QzZ0Nkb0l6WUd2RHo5eldyN2wzWnQwNHRXdjROaFpXdWVrOEpHd19ZUkF2dFlFMEE?oc=5",
+      "source": "NEWS",
+      "published": "2026-08-01T03:44:00+00:00",
+      "tags": []
+    },
     {
       "id": "b7f0e2264d0c1b2a855f052792bbc3d7",
       "umc": "Radboudumc",
@@ -34,6 +44,18 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR19QU0hRdk1qSVM2Tk9nNTJmRWpSTk5SOVFUektaV09GVGFCRjF5aHFDQ0RVVnZFeWd1ZFVtcTRDOTRkektodXMtbG5pUkNtcHktNHFnUzdhNDB6SzVNUC10Uks2YVI2bWhscjc2alJDWTI3M01vM3BFdUpEcXBJVGhJQkxJQWc5RlpiWjVMWEI0a0x6RklvR0pQZjktcV8yb1lvdnR1OExJeTdWX3RxWVg2SklHSkZyWWxkbF8xUHFGSW9wc3RN?oc=5",
       "source": "NEWS",
       "published": "2026-07-27T06:47:31+00:00",
+      "tags": [
+        "Genomica & genetica"
+      ]
+    },
+    {
+      "id": "d3f2918f19248633caad253382136a26",
+      "umc": "UMCG",
+      "title": "Drie UMCG-onderzoekers krijgen beurs voor vernieuwend onderzoek - icthealth.nl",
+      "summary": "Drie UMCG-onderzoekers krijgen beurs voor vernieuwend onderzoek icthealth.nl",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlNNSUcyM3BjbmJmV1ZaYWFBc1RPa3U3RWxKQlcxY0htUmh5UTM1WHJWZTN5T2YwSmE0NEhwa1BJZE1ZdDN4QndTcXA3QWw4eGlvVFdaS1R3dzdUUGMxX2tkY2lkRWNraXh2d0dERUt0d294YUZkT2syUGFucEdIQ1k3OFV5S0NNSmg2aVdwVWRRQWRVbDQ4QWUyWQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-27T06:47:00+00:00",
       "tags": [
         "Genomica & genetica"
       ]
@@ -313,6 +335,18 @@
       "tags": []
     },
     {
+      "id": "4ccb8e5c22f1cbe8c19c9498821b4056",
+      "umc": "UMCG",
+      "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - Groninger Internet Courant",
+      "summary": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht Groninger Internet Courant",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHF5Y0Y0VHFQOXJMbUdoS3NXeFFmcWVsc3doMXkybTZ4aGY5U3ZWcGw5OUJrQVBNTWw5OHRhMXI3M3E1c2ozU1Myc1RKMjZFLS1PYUI2ZUdBNXF0S3NLcEpyU3VIamxuRkdwSTVLZlZzR0tiZGdYYzNLT2p4bTQ1SFg5S2I4cTBzaFAtNzdRZEQyR2dJeGFGM3FWaS1wRVJGVEdWLWtrSkRMTjRLempNSG9nanc5aWVkWFp4aDBQZVRQRWNiZ0E0RA?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T11:15:53+00:00",
+      "tags": [
+        "Farmacologie"
+      ]
+    },
+    {
       "id": "60e45a3b98e93681ab2e1b16e161f736",
       "umc": "Erasmus MC",
       "title": "Robotarm helpt neurochirurgen bij precisie-operaties aan de hersenstam",
@@ -335,18 +369,6 @@
       "source": "NEWS",
       "published": "2026-07-01T07:00:00+00:00",
       "tags": []
-    },
-    {
-      "id": "4ccb8e5c22f1cbe8c19c9498821b4056",
-      "umc": "UMCG",
-      "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - Groninger Internet Courant",
-      "summary": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht Groninger Internet Courant",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHF5Y0Y0VHFQOXJMbUdoS3NXeFFmcWVsc3doMXkybTZ4aGY5U3ZWcGw5OUJrQVBNTWw5OHRhMXI3M3E1c2ozU1Myc1RKMjZFLS1PYUI2ZUdBNXF0S3NLcEpyU3VIamxuRkdwSTVLZlZzR0tiZGdYYzNLT2p4bTQ1SFg5S2I4cTBzaFAtNzdRZEQyR2dJeGFGM3FWaS1wRVJGVEdWLWtrSkRMTjRLempNSG9nanc5aWVkWFp4aDBQZVRQRWNiZ0E0RA?oc=5",
-      "source": "NEWS",
-      "published": "2026-07-01T07:00:00+00:00",
-      "tags": [
-        "Farmacologie"
-      ]
     },
     {
       "id": "8ab5b20ebfecf2bc478937e9fe5b7fce",
