@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-06T09:17:50.796995+00:00",
-  "total": 47,
+  "last_updated": "2026-08-07T07:49:30.550400+00:00",
+  "total": 48,
   "articles": [
+    {
+      "id": "a1042e24e742ec87542c037b96bff0a4",
+      "umc": "UMCG",
+      "title": "CLDR zet volgende stap: nieuw duurzaam laboratoriumgebouw UMCG en RUG voor zorg, onderzoek en onderwijs - Drimble",
+      "summary": "CLDR zet volgende stap: nieuw duurzaam laboratoriumgebouw UMCG en RUG voor zorg, onderzoek en onderwijs Drimble",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVXJtZjZHNzFOMHNHTTctRFdILTM1MC0xejRWZktuQkZnMUt4YU5FVkhKeVRxYXNEaDZ0X2E3YTJLSUhaUjVCVTFsOWVTaU1JUnZrd1M3blhrTVZ4dXZNc1lUT3ZjenJudTNiWkIxaVE5Tjh4LTctMXRIeDJ6V1pDU3AtZnBydmt4ck4zaVNkZ0EteUtnb1diNW1jTUNwTHdVS0FKZHlGT0sxV3RRbmY3LUkyUUwzWXRzbml2UEd6OHRUb1FqQ3lzTGx5MmVjeFRJUGpqbkVPRmlEMGtzTmFiZlFYODQwUTVyazhuQUl2Q082NjltLVdXTnJB?oc=5",
+      "source": "NEWS",
+      "published": "2026-08-06T15:12:00+00:00",
+      "tags": [
+        "Genomica & genetica"
+      ]
+    },
     {
       "id": "3a23c3057d417330f3b46d5d4adf8883",
       "umc": "Radboudumc",
@@ -335,6 +347,18 @@
       "tags": []
     },
     {
+      "id": "8ab5b20ebfecf2bc478937e9fe5b7fce",
+      "umc": "UMCG",
+      "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - gic.nl",
+      "summary": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht gic.nl",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHF5Y0Y0VHFQOXJMbUdoS3NXeFFmcWVsc3doMXkybTZ4aGY5U3ZWcGw5OUJrQVBNTWw5OHRhMXI3M3E1c2ozU1Myc1RKMjZFLS1PYUI2ZUdBNXF0S3NLcEpyU3VIamxuRkdwSTVLZlZzR0tiZGdYYzNLT2p4bTQ1SFg5S2I4cTBzaFAtNzdRZEQyR2dJeGFGM3FWaS1wRVJGVEdWLWtrSkRMTjRLempNSG9nanc5aWVkWFp4aDBQZVRQRWNiZ0E0RA?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T11:15:53+00:00",
+      "tags": [
+        "Farmacologie"
+      ]
+    },
+    {
       "id": "4ccb8e5c22f1cbe8c19c9498821b4056",
       "umc": "UMCG",
       "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - Groninger Internet Courant",
@@ -369,18 +393,6 @@
       "source": "NEWS",
       "published": "2026-07-01T07:00:00+00:00",
       "tags": []
-    },
-    {
-      "id": "8ab5b20ebfecf2bc478937e9fe5b7fce",
-      "umc": "UMCG",
-      "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - gic.nl",
-      "summary": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht gic.nl",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHF5Y0Y0VHFQOXJMbUdoS3NXeFFmcWVsc3doMXkybTZ4aGY5U3ZWcGw5OUJrQVBNTWw5OHRhMXI3M3E1c2ozU1Myc1RKMjZFLS1PYUI2ZUdBNXF0S3NLcEpyU3VIamxuRkdwSTVLZlZzR0tiZGdYYzNLT2p4bTQ1SFg5S2I4cTBzaFAtNzdRZEQyR2dJeGFGM3FWaS1wRVJGVEdWLWtrSkRMTjRLempNSG9nanc5aWVkWFp4aDBQZVRQRWNiZ0E0RA?oc=5",
-      "source": "NEWS",
-      "published": "2026-07-01T07:00:00+00:00",
-      "tags": [
-        "Farmacologie"
-      ]
     },
     {
       "id": "f94f7b51cb7764d2701b3fd87b39ec36",
@@ -431,7 +443,7 @@
       "summary": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek LUMC",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wV0JhNDhaOXpiZjd0cjBjejJDb2dyeHFja3BFS3VsMUxnNF90MnlnUmJFajY1NlJ2YVdLb2xJU2Z5MTBzZDZpY19WX0poT1F5RzM5bDNaLXRnODFzU241alVhZ0ZoOFJ4bzY5SGNIbzZLT3VTYXUzNHlVdjQ?oc=5",
       "source": "NEWS",
-      "published": "2026-06-26T07:00:00+00:00",
+      "published": "2026-06-26T09:03:57+00:00",
       "tags": []
     },
     {
