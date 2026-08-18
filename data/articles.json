@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-08-17T07:28:43.806248+00:00",
-  "total": 53,
+  "last_updated": "2026-08-18T07:11:06.447751+00:00",
+  "total": 56,
   "articles": [
+    {
+      "id": "a5ebb033b54da5b1a523e271e1f82c5c",
+      "umc": "UMCG",
+      "title": "Onderzoek UMCG toont aan: veel minder verwijzingen naar cardioloog bij pijn op de borst dankzij snelle CT-scan - Drimble",
+      "summary": "Onderzoek UMCG toont aan: veel minder verwijzingen naar cardioloog bij pijn op de borst dankzij snelle CT-scan Drimble",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOb0lES1hJeTUzNlZNdng0djdHcUUzOV9DeU5PRlEtOGc1OEVYQUlrWGtWRU12ejcxWHh5ZXZFZDctcTFUTkJkalBFb3FJcFY4VlNZRC16SXBfbS1xZVowazJZNWVDakdVdVZjenVZMU9oX0dQNUNzRnpjcDNvWWk4aTRyNVh0RGl3cVU4TndqS29FMkJqOXZmRWREbWhkQ0dFR21ydExscnpsYS1vdDVhVGRCdldjSkRNNm5zWHk2WTdhRl9LdXpOdmRtTDI1UGhkQl9CTXI5dEVSVUh6R1R1WXY4TFNraDZ1N2g1RFJXMHZaRFh5WlVVc09FSWFKZ01NQTRPZA?oc=5",
+      "source": "NEWS",
+      "published": "2026-08-17T09:14:21+00:00",
+      "tags": [
+        "Genomica & genetica",
+        "Diagnostiek & beeldvorming"
+      ]
+    },
     {
       "id": "4cd3d11d8a635134f15087d68a55c7ad",
       "umc": "Erasmus MC",
@@ -10,6 +23,16 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLXZuSUR3TmYxemlkc3FlS3I2ZjJsUnVWVjZXdk5sX016RmVMZjFJLVBhRlJxb2NWNFFyb1R4dF94SEZfdkVSVWVwR2VnbXJBUzM0RVkxN05VRmNSWUpOaVZpY1VaRWVteWlvT3NkVFQ0MEI0Yk41UWZqUG14RmEtMzBwdG8xUUI3Yk9ZRlNWcFZLSGJpUkVHbEhwR05GR19XRDVjeklZalBxNy1zN1M4?oc=5",
       "source": "NEWS",
       "published": "2026-08-14T09:58:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "41e6c46692d143c4f0dcd20269b5abf9",
+      "umc": "Radboudumc",
+      "title": "Martijn de Groot nieuw hoofd Radboudumc REshape Center - Radboudumc",
+      "summary": "Martijn de Groot nieuw hoofd Radboudumc REshape Center Radboudumc",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1JuNEs4V3RkaWNDbGlPd0V4NjNSbFY0bjI5ZzUtZzB4dTZITTZUNmgyS1lLMWFacGgyczZNN2tjRVRoTjJsdXd3bTd1Z0ZwT21kdldhTm1LRWw3UE9BLVhNbEdXNWRzTTFQRlFUblNEY0g3RFE4dXYtN2dPYk5PMGlMMXlDME5vNVVvZV9zQ3FRTjRFU1QzXzB5aTY?oc=5",
+      "source": "NEWS",
+      "published": "2026-08-14T07:00:00+00:00",
       "tags": []
     },
     {
@@ -395,20 +418,20 @@
       ]
     },
     {
-      "id": "a0b51543b6f91a3f2b4e6dc3b43e1f43",
+      "id": "5efa2a0cce472ad72f007999aea0e3df",
       "umc": "Maastricht UMC+",
-      "title": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst - De Nieuwe Ster Maastricht",
-      "summary": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst De Nieuwe Ster Maastricht",
+      "title": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst - denieuwestermaastricht.nl",
+      "summary": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst denieuwestermaastricht.nl",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWtJMV91a1ZYYmtLVU9tNGpvWUtKTUJ2cGtxWk5VUEwtbXRUNzZZS0dIYml3Y1Q0ZnRLRk8zbFctenRQWUxCNkxYMXdpRjFoby1lT2czczlFNENjUXdsXzZRYXUwMlQ0b2ZOYWR2M1ZlaVNQZnkwRkN0dERMM1VqU2hyTFlOYmg5ZXJtQnRtczVadnRILUdaaU1wUVN5ZGE2RW9OMg?oc=5",
       "source": "NEWS",
       "published": "2026-07-01T07:00:00+00:00",
       "tags": []
     },
     {
-      "id": "5efa2a0cce472ad72f007999aea0e3df",
+      "id": "a0b51543b6f91a3f2b4e6dc3b43e1f43",
       "umc": "Maastricht UMC+",
-      "title": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst - denieuwestermaastricht.nl",
-      "summary": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst denieuwestermaastricht.nl",
+      "title": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst - De Nieuwe Ster Maastricht",
+      "summary": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst De Nieuwe Ster Maastricht",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWtJMV91a1ZYYmtLVU9tNGpvWUtKTUJ2cGtxWk5VUEwtbXRUNzZZS0dIYml3Y1Q0ZnRLRk8zbFctenRQWUxCNkxYMXdpRjFoby1lT2czczlFNENjUXdsXzZRYXUwMlQ0b2ZOYWR2M1ZlaVNQZnkwRkN0dERMM1VqU2hyTFlOYmg5ZXJtQnRtczVadnRILUdaaU1wUVN5ZGE2RW9OMg?oc=5",
       "source": "NEWS",
       "published": "2026-07-01T07:00:00+00:00",
@@ -457,6 +480,16 @@
       ]
     },
     {
+      "id": "aaef4f4f4214fe0e47c066d7de882697",
+      "umc": "LUMC",
+      "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - lumc.nl",
+      "summary": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek lumc.nl",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wV0JhNDhaOXpiZjd0cjBjejJDb2dyeHFja3BFS3VsMUxnNF90MnlnUmJFajY1NlJ2YVdLb2xJU2Z5MTBzZDZpY19WX0poT1F5RzM5bDNaLXRnODFzU241alVhZ0ZoOFJ4bzY5SGNIbzZLT3VTYXUzNHlVdjQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-26T09:03:57+00:00",
+      "tags": []
+    },
+    {
       "id": "18cd9261cd32d298481a9ac74e5609a3",
       "umc": "LUMC",
       "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - LUMC",
@@ -490,10 +523,10 @@
       ]
     },
     {
-      "id": "395b14be0d9a181b9a94eddc0cf426bc",
+      "id": "05ac45f434105040c19048156d54d4f4",
       "umc": "LUMC",
-      "title": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker - LUMC",
-      "summary": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker LUMC",
+      "title": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker - lumc.nl",
+      "summary": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker lumc.nl",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWW5teFJSVEI2dHBZT1V1MUJ1SnF6T2RPNTlmOTgxS3dBUmxHTVpiYXM5eEVEdklGdUVFcGhwUXR1MWRaOEVzc1p6dVdGNDFfRHdYYUhWMW4xZWMxZUh5N2xlNmtpTlVuOUJuZjM5Vzczd3RfZ3B1bjd3QVNodnV2LTVOeDFmdldud1NFOVFDVEZIMktEZllkSzNHWTZ6cmxDWUhxNk9JMnpLdHplU0NXY09hc0x3UQ?oc=5",
       "source": "NEWS",
       "published": "2026-06-24T06:57:16+00:00",
@@ -503,10 +536,10 @@
       ]
     },
     {
-      "id": "05ac45f434105040c19048156d54d4f4",
+      "id": "395b14be0d9a181b9a94eddc0cf426bc",
       "umc": "LUMC",
-      "title": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker - lumc.nl",
-      "summary": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker lumc.nl",
+      "title": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker - LUMC",
+      "summary": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker LUMC",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWW5teFJSVEI2dHBZT1V1MUJ1SnF6T2RPNTlmOTgxS3dBUmxHTVpiYXM5eEVEdklGdUVFcGhwUXR1MWRaOEVzc1p6dVdGNDFfRHdYYUhWMW4xZWMxZUh5N2xlNmtpTlVuOUJuZjM5Vzczd3RfZ3B1bjd3QVNodnV2LTVOeDFmdldud1NFOVFDVEZIMktEZllkSzNHWTZ6cmxDWUhxNk9JMnpLdHplU0NXY09hc0x3UQ?oc=5",
       "source": "NEWS",
       "published": "2026-06-24T06:57:16+00:00",
