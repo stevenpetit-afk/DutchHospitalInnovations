@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-08-23T07:07:52.684907+00:00",
-  "total": 58,
+  "last_updated": "2026-08-24T07:33:35.232116+00:00",
+  "total": 61,
   "articles": [
+    {
+      "id": "7074db37b642ec7fb1e5ad49ecfac259",
+      "umc": "Radboudumc",
+      "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - AD.nl",
+      "summary": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc AD.nl",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjgyRDdkVVJKMlpNclJHQ2pva1EyeHBBVDJFc1paVmNWX1h6bmVGWEYwRnd4T0pFa3E3M2l0ZUI0Q0dxUVZnX0o1blpLUnBqN29SZnJIRUV1d3Q0ZEZ0Zy1KenkxcGVzR1BxbGpEZC1MNHRyLWpDeDlRN2xKODBZSVExMGdtMG91Vzl5eXphbm9IQVpJTk1IMFB2ZllNQTh3Y09iUHlZUGtfTlZjM2JJSHB5a0JibGNRVUtDemNEUmI5d3ZBam11TGVB?oc=5",
+      "source": "NEWS",
+      "published": "2026-08-23T19:00:00+00:00",
+      "tags": [
+        "Kanker & oncologie"
+      ]
+    },
+    {
+      "id": "e4b73a5b18c8034bdcd70e41f5509074",
+      "umc": "Amsterdam UMC",
+      "title": "Amsterdam UMC onderzoekt gokschade met ZonMw-subsidie - CasinoBeats",
+      "summary": "Amsterdam UMC onderzoekt gokschade met ZonMw-subsidie CasinoBeats",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmdhWDFta19hM2IxMW1YZkJ4NjZ2QlRVQlJvWEE0ak9kelczQXdJN2ZXRkU4RE1lVEh0V012MjdCQ2lRYTRaYkxRb0ZIOFVFd2RvSnhxV1ZYQUNqY3FzS1djNk5RM3NkY0JGdzJGOXk0alp0T2NCZzJob3JvcHJybmt3VUpZTmlP?oc=5",
+      "source": "NEWS",
+      "published": "2026-08-21T02:44:40+00:00",
+      "tags": [
+        "Subsidie & samenwerking"
+      ]
+    },
     {
       "id": "4ccc3bf19e1294d88c5206dfb53d30fa",
       "umc": "UMCG",
@@ -404,18 +428,6 @@
       "tags": []
     },
     {
-      "id": "4ccb8e5c22f1cbe8c19c9498821b4056",
-      "umc": "UMCG",
-      "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - Groninger Internet Courant",
-      "summary": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht Groninger Internet Courant",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHF5Y0Y0VHFQOXJMbUdoS3NXeFFmcWVsc3doMXkybTZ4aGY5U3ZWcGw5OUJrQVBNTWw5OHRhMXI3M3E1c2ozU1Myc1RKMjZFLS1PYUI2ZUdBNXF0S3NLcEpyU3VIamxuRkdwSTVLZlZzR0tiZGdYYzNLT2p4bTQ1SFg5S2I4cTBzaFAtNzdRZEQyR2dJeGFGM3FWaS1wRVJGVEdWLWtrSkRMTjRLempNSG9nanc5aWVkWFp4aDBQZVRQRWNiZ0E0RA?oc=5",
-      "source": "NEWS",
-      "published": "2026-07-01T11:15:53+00:00",
-      "tags": [
-        "Farmacologie"
-      ]
-    },
-    {
       "id": "8ab5b20ebfecf2bc478937e9fe5b7fce",
       "umc": "UMCG",
       "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - gic.nl",
@@ -442,6 +454,16 @@
       ]
     },
     {
+      "id": "5eaf0fdf0f7ba63821e761ec7aee9a13",
+      "umc": "Maastricht UMC+",
+      "title": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie - 1zuid.nl",
+      "summary": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie 1zuid.nl",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNME9YNzFBaTk3R3Z5VjIxamY1cllUWGZpRUhGeGptWWpnOHJoV1FuUlVfZURCOGxEZjZ5Q0R0Uy1WTlY0alUyMVNFclZSeFluSUhvZnJNVFRiSzZhY3ZyWTIzNFVGME9uei01OTlkRVBsaXp0Vm0wUVdTN1VhMUpVdGNhdFBvU3R5UkhMTmlTUlVGejRoWmhNV05fVWRnVXFUU1Fvc2R2OFk?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T07:00:00+00:00",
+      "tags": []
+    },
+    {
       "id": "a0b51543b6f91a3f2b4e6dc3b43e1f43",
       "umc": "Maastricht UMC+",
       "title": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst - De Nieuwe Ster Maastricht",
@@ -450,6 +472,18 @@
       "source": "NEWS",
       "published": "2026-07-01T07:00:00+00:00",
       "tags": []
+    },
+    {
+      "id": "4ccb8e5c22f1cbe8c19c9498821b4056",
+      "umc": "UMCG",
+      "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - Groninger Internet Courant",
+      "summary": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht Groninger Internet Courant",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHF5Y0Y0VHFQOXJMbUdoS3NXeFFmcWVsc3doMXkybTZ4aGY5U3ZWcGw5OUJrQVBNTWw5OHRhMXI3M3E1c2ozU1Myc1RKMjZFLS1PYUI2ZUdBNXF0S3NLcEpyU3VIamxuRkdwSTVLZlZzR0tiZGdYYzNLT2p4bTQ1SFg5S2I4cTBzaFAtNzdRZEQyR2dJeGFGM3FWaS1wRVJGVEdWLWtrSkRMTjRLempNSG9nanc5aWVkWFp4aDBQZVRQRWNiZ0E0RA?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T07:00:00+00:00",
+      "tags": [
+        "Farmacologie"
+      ]
     },
     {
       "id": "5efa2a0cce472ad72f007999aea0e3df",
