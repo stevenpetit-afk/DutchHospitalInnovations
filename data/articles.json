@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T07:33:35.232116+00:00",
+  "last_updated": "2026-08-25T07:15:08.677109+00:00",
   "total": 61,
   "articles": [
     {
@@ -454,16 +454,6 @@
       ]
     },
     {
-      "id": "5eaf0fdf0f7ba63821e761ec7aee9a13",
-      "umc": "Maastricht UMC+",
-      "title": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie - 1zuid.nl",
-      "summary": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie 1zuid.nl",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNME9YNzFBaTk3R3Z5VjIxamY1cllUWGZpRUhGeGptWWpnOHJoV1FuUlVfZURCOGxEZjZ5Q0R0Uy1WTlY0alUyMVNFclZSeFluSUhvZnJNVFRiSzZhY3ZyWTIzNFVGME9uei01OTlkRVBsaXp0Vm0wUVdTN1VhMUpVdGNhdFBvU3R5UkhMTmlTUlVGejRoWmhNV05fVWRnVXFUU1Fvc2R2OFk?oc=5",
-      "source": "NEWS",
-      "published": "2026-07-01T07:00:00+00:00",
-      "tags": []
-    },
-    {
       "id": "a0b51543b6f91a3f2b4e6dc3b43e1f43",
       "umc": "Maastricht UMC+",
       "title": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst - De Nieuwe Ster Maastricht",
@@ -484,6 +474,16 @@
       "tags": [
         "Farmacologie"
       ]
+    },
+    {
+      "id": "5eaf0fdf0f7ba63821e761ec7aee9a13",
+      "umc": "Maastricht UMC+",
+      "title": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie - 1zuid.nl",
+      "summary": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie 1zuid.nl",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNME9YNzFBaTk3R3Z5VjIxamY1cllUWGZpRUhGeGptWWpnOHJoV1FuUlVfZURCOGxEZjZ5Q0R0Uy1WTlY0alUyMVNFclZSeFluSUhvZnJNVFRiSzZhY3ZyWTIzNFVGME9uei01OTlkRVBsaXp0Vm0wUVdTN1VhMUpVdGNhdFBvU3R5UkhMTmlTUlVGejRoWmhNV05fVWRnVXFUU1Fvc2R2OFk?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T07:00:00+00:00",
+      "tags": []
     },
     {
       "id": "5efa2a0cce472ad72f007999aea0e3df",
