@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-08-31T14:10:19.746264+00:00",
-  "total": 62,
+  "last_updated": "2026-09-01T11:49:46.832411+00:00",
+  "total": 64,
   "articles": [
+    {
+      "id": "fb88c452af35835bda48a53dd133dab0",
+      "umc": "UMCG",
+      "title": "Ruim 2 ton opgehaald met Groningen Swim Challenge voor kankeronderzoek UMCG - Groninger Internet Courant",
+      "summary": "Ruim 2 ton opgehaald met Groningen Swim Challenge voor kankeronderzoek UMCG Groninger Internet Courant",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUtCM0VOcDhvSE1pN2RDMy1QUGs1YlluWnZGS3VYOGpWOC15NUI0Q2pWR1JJTGtuVktEU0trZTdFbmtCSDF6WHZQZDd1ajZjMTdxVTJCYzJ6MzVvYkw3Mjl3Z3ZWMzlncVB6U29kSDI3VVdPRVFVRko5Z1dYRjJUZlpRRnpYU0l6YU12ZFRlYUZwRzNTQkM3RWlKbDk5VS1ha0E?oc=5",
+      "source": "NEWS",
+      "published": "2026-08-31T18:07:40+00:00",
+      "tags": [
+        "Kanker & oncologie",
+        "Genomica & genetica"
+      ]
+    },
     {
       "id": "a3be21672c1f2332f894a1b14242d9f4",
       "umc": "Radboudumc",
@@ -10,6 +23,18 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVmVQQk5LTDNzcVoxdXNIaHU2dDJSUXIxMVYwbi1fTUJHVTBhVkZqaHpXVFBwdVRVOEM1OFJORFVJUWNDb2I3eHJ5YTlfX3M0N2ZYbmowdXZocTZTMmYwZGYyQ2NObkNhakxOZmNXRDNxVnlkS0lNTmJleWt0Z1VwWmpNR2NCRW5RX2JiNllBc2p1bk14ektuSVVNXzhtNFV3dm92SG1CYXY2WEVQdnBtNU84V3UxY2FQcmRpUEFsQ3RIOFIyQzhJd05EdTVKM3h1OHpFcQ?oc=5",
       "source": "NEWS",
       "published": "2026-08-23T19:00:00+00:00",
+      "tags": [
+        "Kanker & oncologie"
+      ]
+    },
+    {
+      "id": "c7c41c07aef76b4f62f593bba2758ed6",
+      "umc": "Radboudumc",
+      "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - ad.nl",
+      "summary": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc ad.nl",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjgyRDdkVVJKMlpNclJHQ2pva1EyeHBBVDJFc1paVmNWX1h6bmVGWEYwRnd4T0pFa3E3M2l0ZUI0Q0dxUVZnX0o1blpLUnBqN29SZnJIRUV1d3Q0ZEZ0Zy1KenkxcGVzR1BxbGpEZC1MNHRyLWpDeDlRN2xKODBZSVExMGdtMG91Vzl5eXphbm9IQVpJTk1IMFB2ZllNQTh3Y09iUHlZUGtfTlZjM2JJSHB5a0JibGNRVUtDemNEUmI5d3ZBam11TGVB?oc=5",
+      "source": "NEWS",
+      "published": "2026-08-23T07:00:00+00:00",
       "tags": [
         "Kanker & oncologie"
       ]
@@ -39,10 +64,10 @@
       ]
     },
     {
-      "id": "4ccc3bf19e1294d88c5206dfb53d30fa",
+      "id": "37477d50f0f1ca2e9987378cad653d48",
       "umc": "UMCG",
-      "title": "Onderzoek UMCG: minder mensen naar cardioloog dankzij snelle CT-scan - Groninger Internet Courant",
-      "summary": "Onderzoek UMCG: minder mensen naar cardioloog dankzij snelle CT-scan Groninger Internet Courant",
+      "title": "Onderzoek UMCG: minder mensen naar cardioloog dankzij snelle CT-scan - gic.nl",
+      "summary": "Onderzoek UMCG: minder mensen naar cardioloog dankzij snelle CT-scan gic.nl",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0E0bnFFbmZ5WXlDQi0ySXNMN3pLZ3liWDU5dXpPU2FLMlhtdUJQRm0zakI5cFZxal9xMGl3MzJBanAySG9lZG5tTlIzYkdZeGFJQ1AtRzhXOGNWQl9FSlRxN3ZJU2Zwd1Vvb204M1lQNGNpS1VuYnlpekd5bmtVRmFETkhTN3c2ZF9zejI4MldjR2ZqYXdr?oc=5",
       "source": "NEWS",
       "published": "2026-08-18T14:10:40+00:00",
@@ -51,13 +76,13 @@
       ]
     },
     {
-      "id": "37477d50f0f1ca2e9987378cad653d48",
+      "id": "4ccc3bf19e1294d88c5206dfb53d30fa",
       "umc": "UMCG",
-      "title": "Onderzoek UMCG: minder mensen naar cardioloog dankzij snelle CT-scan - gic.nl",
-      "summary": "Onderzoek UMCG: minder mensen naar cardioloog dankzij snelle CT-scan gic.nl",
+      "title": "Onderzoek UMCG: minder mensen naar cardioloog dankzij snelle CT-scan - Groninger Internet Courant",
+      "summary": "Onderzoek UMCG: minder mensen naar cardioloog dankzij snelle CT-scan Groninger Internet Courant",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0E0bnFFbmZ5WXlDQi0ySXNMN3pLZ3liWDU5dXpPU2FLMlhtdUJQRm0zakI5cFZxal9xMGl3MzJBanAySG9lZG5tTlIzYkdZeGFJQ1AtRzhXOGNWQl9FSlRxN3ZJU2Zwd1Vvb204M1lQNGNpS1VuYnlpekd5bmtVRmFETkhTN3c2ZF9zejI4MldjR2ZqYXdr?oc=5",
       "source": "NEWS",
-      "published": "2026-08-18T14:10:40+00:00",
+      "published": "2026-08-18T07:00:00+00:00",
       "tags": [
         "Diagnostiek & beeldvorming"
       ]
@@ -466,16 +491,6 @@
       ]
     },
     {
-      "id": "a0b51543b6f91a3f2b4e6dc3b43e1f43",
-      "umc": "Maastricht UMC+",
-      "title": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst - De Nieuwe Ster Maastricht",
-      "summary": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst De Nieuwe Ster Maastricht",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWtJMV91a1ZYYmtLVU9tNGpvWUtKTUJ2cGtxWk5VUEwtbXRUNzZZS0dIYml3Y1Q0ZnRLRk8zbFctenRQWUxCNkxYMXdpRjFoby1lT2czczlFNENjUXdsXzZRYXUwMlQ0b2ZOYWR2M1ZlaVNQZnkwRkN0dERMM1VqU2hyTFlOYmg5ZXJtQnRtczVadnRILUdaaU1wUVN5ZGE2RW9OMg?oc=5",
-      "source": "NEWS",
-      "published": "2026-07-01T07:00:00+00:00",
-      "tags": []
-    },
-    {
       "id": "4ccb8e5c22f1cbe8c19c9498821b4056",
       "umc": "UMCG",
       "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - Groninger Internet Courant",
@@ -486,6 +501,16 @@
       "tags": [
         "Farmacologie"
       ]
+    },
+    {
+      "id": "a0b51543b6f91a3f2b4e6dc3b43e1f43",
+      "umc": "Maastricht UMC+",
+      "title": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst - De Nieuwe Ster Maastricht",
+      "summary": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst De Nieuwe Ster Maastricht",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWtJMV91a1ZYYmtLVU9tNGpvWUtKTUJ2cGtxWk5VUEwtbXRUNzZZS0dIYml3Y1Q0ZnRLRk8zbFctenRQWUxCNkxYMXdpRjFoby1lT2czczlFNENjUXdsXzZRYXUwMlQ0b2ZOYWR2M1ZlaVNQZnkwRkN0dERMM1VqU2hyTFlOYmg5ZXJtQnRtczVadnRILUdaaU1wUVN5ZGE2RW9OMg?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T07:00:00+00:00",
+      "tags": []
     },
     {
       "id": "5eaf0fdf0f7ba63821e761ec7aee9a13",
