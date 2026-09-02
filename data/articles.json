@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-01T11:49:46.832411+00:00",
-  "total": 64,
+  "last_updated": "2026-09-02T11:30:32.943331+00:00",
+  "total": 65,
   "articles": [
     {
       "id": "fb88c452af35835bda48a53dd133dab0",
@@ -16,6 +16,16 @@
       ]
     },
     {
+      "id": "74028a9e39484b29ed334a56304ce2df",
+      "umc": "Erasmus MC",
+      "title": "Onderzoek Erasmus MC: patiënten willen massaal samenvatting in begrijpelijke taal - Zorgvisie",
+      "summary": "Onderzoek Erasmus MC: patiënten willen massaal samenvatting in begrijpelijke taal Zorgvisie",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVXNvR3JBNTVTbjlNLUpqRkRiQ2FSWHBsYmFPUlZmTHhTOTJBSWI0M1IwR1BLdndkUmNoY3BtdEZvNmF1cWVIX1ZBYXJnT3BodExoNTJpeVYtR2M2ai14d3VBazVhMkdUSGtDSGF6RkFTV1d4ZU52RDZDcDZidHJuUGpzS2R1N19DeVdEdHc0emx6aXpxQmNtNl9WV2UtYVd2MkJmTEtXaWVIQQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-08-25T12:06:41+00:00",
+      "tags": []
+    },
+    {
       "id": "a3be21672c1f2332f894a1b14242d9f4",
       "umc": "Radboudumc",
       "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - De Gelderlander",
@@ -28,10 +38,10 @@
       ]
     },
     {
-      "id": "c7c41c07aef76b4f62f593bba2758ed6",
+      "id": "7074db37b642ec7fb1e5ad49ecfac259",
       "umc": "Radboudumc",
-      "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - ad.nl",
-      "summary": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc ad.nl",
+      "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - AD.nl",
+      "summary": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc AD.nl",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjgyRDdkVVJKMlpNclJHQ2pva1EyeHBBVDJFc1paVmNWX1h6bmVGWEYwRnd4T0pFa3E3M2l0ZUI0Q0dxUVZnX0o1blpLUnBqN29SZnJIRUV1d3Q0ZEZ0Zy1KenkxcGVzR1BxbGpEZC1MNHRyLWpDeDlRN2xKODBZSVExMGdtMG91Vzl5eXphbm9IQVpJTk1IMFB2ZllNQTh3Y09iUHlZUGtfTlZjM2JJSHB5a0JibGNRVUtDemNEUmI5d3ZBam11TGVB?oc=5",
       "source": "NEWS",
       "published": "2026-08-23T07:00:00+00:00",
@@ -40,10 +50,10 @@
       ]
     },
     {
-      "id": "7074db37b642ec7fb1e5ad49ecfac259",
+      "id": "c7c41c07aef76b4f62f593bba2758ed6",
       "umc": "Radboudumc",
-      "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - AD.nl",
-      "summary": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc AD.nl",
+      "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - ad.nl",
+      "summary": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc ad.nl",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjgyRDdkVVJKMlpNclJHQ2pva1EyeHBBVDJFc1paVmNWX1h6bmVGWEYwRnd4T0pFa3E3M2l0ZUI0Q0dxUVZnX0o1blpLUnBqN29SZnJIRUV1d3Q0ZEZ0Zy1KenkxcGVzR1BxbGpEZC1MNHRyLWpDeDlRN2xKODBZSVExMGdtMG91Vzl5eXphbm9IQVpJTk1IMFB2ZllNQTh3Y09iUHlZUGtfTlZjM2JJSHB5a0JibGNRVUtDemNEUmI5d3ZBam11TGVB?oc=5",
       "source": "NEWS",
       "published": "2026-08-23T07:00:00+00:00",
@@ -657,6 +667,19 @@
       ]
     },
     {
+      "id": "c2f7079c29bc957356fd340fc07724b7",
+      "umc": "Maastricht UMC+",
+      "title": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie - parkstadactueel.nl",
+      "summary": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie parkstadactueel.nl",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2FZby1LRGhrUUNOSDZIemM3M2NHNHlzMU9NbHk0dTlVQ0ZTcHczYkNmNGoyYlJVdjN0ODduRHd3Rmx0MEZzb0xScFNpcVAtckwzT1ROekJLRTlzSVBIV3l3ME4xTnh3cHdnRktNZXg2WU9ZcEphNlZIV0xleG1QZkdOUnJXMXlOQ1phR0V0M0hKZEFCYTNRX2xUcHZ6cWJnU1pob2FvSlVLQktpQ01iY2N1TnM5WHRUU0E?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-15T07:00:00+00:00",
+      "tags": [
+        "Genomica & genetica",
+        "Subsidie & samenwerking"
+      ]
+    },
+    {
       "id": "4cb9b53935afd8444c3048c81b53ef5c",
       "umc": "Maastricht UMC+",
       "title": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie - Parkstad Actueel",
@@ -675,19 +698,6 @@
       "title": "Zuyderland en Maastricht UMC+ krijgen subsidie voor acht gezamenlijke onderzoeken - mijnstreekvandaag.nl",
       "summary": "Zuyderland en Maastricht UMC+ krijgen subsidie voor acht gezamenlijke onderzoeken mijnstreekvandaag.nl",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWU3Uk41QXRMbVloeVVveEI1clI1OEh0N3dweTRJUUhZdmNqTzJ3VzBXTEJ6aXAweVFjMGlhSnBzTW5vWHhrTTJNbmVNQlNBdTE5YU9MeXdqNmYweFJGV3BZaEMzWFhPYmlIUXpBSlBzMGFjZURiMXMzWnlFYloyLW1PaWNINzRkYjBFRFpVWkVOdUQ0dUdyS1hFYmZjNm5tRUgxeEx6bW5YNVJyeTJ1Y19Saw?oc=5",
-      "source": "NEWS",
-      "published": "2026-06-15T07:00:00+00:00",
-      "tags": [
-        "Genomica & genetica",
-        "Subsidie & samenwerking"
-      ]
-    },
-    {
-      "id": "c2f7079c29bc957356fd340fc07724b7",
-      "umc": "Maastricht UMC+",
-      "title": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie - parkstadactueel.nl",
-      "summary": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie parkstadactueel.nl",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2FZby1LRGhrUUNOSDZIemM3M2NHNHlzMU9NbHk0dTlVQ0ZTcHczYkNmNGoyYlJVdjN0ODduRHd3Rmx0MEZzb0xScFNpcVAtckwzT1ROekJLRTlzSVBIV3l3ME4xTnh3cHdnRktNZXg2WU9ZcEphNlZIV0xleG1QZkdOUnJXMXlOQ1phR0V0M0hKZEFCYTNRX2xUcHZ6cWJnU1pob2FvSlVLQktpQ01iY2N1TnM5WHRUU0E?oc=5",
       "source": "NEWS",
       "published": "2026-06-15T07:00:00+00:00",
       "tags": [
