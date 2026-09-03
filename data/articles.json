@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T11:30:32.943331+00:00",
-  "total": 65,
+  "last_updated": "2026-09-03T11:27:18.655766+00:00",
+  "total": 68,
   "articles": [
     {
       "id": "fb88c452af35835bda48a53dd133dab0",
@@ -38,6 +38,19 @@
       ]
     },
     {
+      "id": "b129a1570b6b711d317f2ad95a878d5f",
+      "umc": "Radboudumc",
+      "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - destentor.nl",
+      "summary": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc destentor.nl",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMFVTNU9JWXNGUnVvMFlSalVzVnpVM1lnYmxsZjhNbVhjMWt5ZkNEUmRCY0lTZUJtWGFHMmNRbDdkdDhtRkFFUHQxc1JzWmJocHF6a2Izei1zWG9fQlRLSTF3ZmE0S3NZUFo5VE9FTFhjeDl0VWNoc3VyTTVkN0NpTnE3NGU3T1Vwa3dVSmp6SVctWWJzSlYtZ1JlSVlqcnlDckdhLUVkYWR2NzVpaDB1SDFuUDcxS2tPWnRMN3FLNnlvZXdOaFRCUno4ejBxNFZM?oc=5",
+      "source": "NEWS",
+      "published": "2026-08-23T07:00:00+00:00",
+      "tags": [
+        "Kanker & oncologie",
+        "Cardiologie"
+      ]
+    },
+    {
       "id": "7074db37b642ec7fb1e5ad49ecfac259",
       "umc": "Radboudumc",
       "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - AD.nl",
@@ -68,7 +81,7 @@
       "summary": "Amsterdam UMC onderzoekt gokschade met ZonMw-subsidie CasinoBeats",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmdhWDFta19hM2IxMW1YZkJ4NjZ2QlRVQlJvWEE0ak9kelczQXdJN2ZXRkU4RE1lVEh0V012MjdCQ2lRYTRaYkxRb0ZIOFVFd2RvSnhxV1ZYQUNqY3FzS1djNk5RM3NkY0JGdzJGOXk0alp0T2NCZzJob3JvcHJybmt3VUpZTmlP?oc=5",
       "source": "NEWS",
-      "published": "2026-08-21T02:44:40+00:00",
+      "published": "2026-08-20T07:00:00+00:00",
       "tags": [
         "Subsidie & samenwerking"
       ]
@@ -211,6 +224,16 @@
       "tags": [
         "Genomica & genetica"
       ]
+    },
+    {
+      "id": "a35b8e5ad9fc410729392c087fa95f54",
+      "umc": "LUMC",
+      "title": "Laboratoriumspecialist Klinische Chemie - Leids Universitair Medisch Centrum | LUMC",
+      "summary": "Laboratoriumspecialist Klinische Chemie Leids Universitair Medisch Centrum | LUMC",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYlV1bF9JaDV6MnZuM1lFTlpTb0hsUTJQMGlVSlBaTGVfZHVnYXI2UUVRbTZYSFVWaW9lQ3J5bGVLbVRPMWNJLXVFbE9vRkhoRl8wUVc4MmREUXYtNHNiMlJSRXNUSk1yYzlGUTVaZzEzM1czZ2x2RUFXU3pRZUc0ZkJYWk1qNERqM3Fjc2U5c0Y3blJ6cWhnTXNqUGZIWFJ1UTN4TEJ4dGE2U0Y0M1E?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-25T06:53:46+00:00",
+      "tags": []
     },
     {
       "id": "528abbc7d2f0f1c12bae977f47e77535",
@@ -501,6 +524,16 @@
       ]
     },
     {
+      "id": "5eaf0fdf0f7ba63821e761ec7aee9a13",
+      "umc": "Maastricht UMC+",
+      "title": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie - 1zuid.nl",
+      "summary": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie 1zuid.nl",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNME9YNzFBaTk3R3Z5VjIxamY1cllUWGZpRUhGeGptWWpnOHJoV1FuUlVfZURCOGxEZjZ5Q0R0Uy1WTlY0alUyMVNFclZSeFluSUhvZnJNVFRiSzZhY3ZyWTIzNFVGME9uei01OTlkRVBsaXp0Vm0wUVdTN1VhMUpVdGNhdFBvU3R5UkhMTmlTUlVGejRoWmhNV05fVWRnVXFUU1Fvc2R2OFk?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T07:00:00+00:00",
+      "tags": []
+    },
+    {
       "id": "4ccb8e5c22f1cbe8c19c9498821b4056",
       "umc": "UMCG",
       "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - Groninger Internet Courant",
@@ -518,16 +551,6 @@
       "title": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst - De Nieuwe Ster Maastricht",
       "summary": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst De Nieuwe Ster Maastricht",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWtJMV91a1ZYYmtLVU9tNGpvWUtKTUJ2cGtxWk5VUEwtbXRUNzZZS0dIYml3Y1Q0ZnRLRk8zbFctenRQWUxCNkxYMXdpRjFoby1lT2czczlFNENjUXdsXzZRYXUwMlQ0b2ZOYWR2M1ZlaVNQZnkwRkN0dERMM1VqU2hyTFlOYmg5ZXJtQnRtczVadnRILUdaaU1wUVN5ZGE2RW9OMg?oc=5",
-      "source": "NEWS",
-      "published": "2026-07-01T07:00:00+00:00",
-      "tags": []
-    },
-    {
-      "id": "5eaf0fdf0f7ba63821e761ec7aee9a13",
-      "umc": "Maastricht UMC+",
-      "title": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie - 1zuid.nl",
-      "summary": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie 1zuid.nl",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNME9YNzFBaTk3R3Z5VjIxamY1cllUWGZpRUhGeGptWWpnOHJoV1FuUlVfZURCOGxEZjZ5Q0R0Uy1WTlY0alUyMVNFclZSeFluSUhvZnJNVFRiSzZhY3ZyWTIzNFVGME9uei01OTlkRVBsaXp0Vm0wUVdTN1VhMUpVdGNhdFBvU3R5UkhMTmlTUlVGejRoWmhNV05fVWRnVXFUU1Fvc2R2OFk?oc=5",
       "source": "NEWS",
       "published": "2026-07-01T07:00:00+00:00",
       "tags": []
@@ -654,6 +677,29 @@
       ]
     },
     {
+      "id": "c9a0ad7bfd81a914443a8065797a433e",
+      "umc": "UMC Utrecht",
+      "title": "Judith Meijers over onderzoek in de praktijk - UMC Utrecht",
+      "summary": "Judith Meijers over onderzoek in de praktijk UMC Utrecht",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHZUMi1lcFJiV3RPUGlPdWVFY1QzVl9WNzU0UkV6RWhENjNabjhRZVRCSE41UGp3M1RES2tqRmhuZ2hEVHZjZHFvSkdLbkdNUUNyOE9ITXJJYVQ5MTMxd3Z4ejR5ZmpFVHRnNXlUQ3FIVnFZTGdBNkR1eEhfbmhTb1JsR29sQkc5ejNrS09fQlhnRVlJSE91VGowZw?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-22T07:00:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "4cb9b53935afd8444c3048c81b53ef5c",
+      "umc": "Maastricht UMC+",
+      "title": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie - Parkstad Actueel",
+      "summary": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie Parkstad Actueel",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2FZby1LRGhrUUNOSDZIemM3M2NHNHlzMU9NbHk0dTlVQ0ZTcHczYkNmNGoyYlJVdjN0ODduRHd3Rmx0MEZzb0xScFNpcVAtckwzT1ROekJLRTlzSVBIV3l3ME4xTnh3cHdnRktNZXg2WU9ZcEphNlZIV0xleG1QZkdOUnJXMXlOQ1phR0V0M0hKZEFCYTNRX2xUcHZ6cWJnU1pob2FvSlVLQktpQ01iY2N1TnM5WHRUU0E?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-15T07:00:00+00:00",
+      "tags": [
+        "Genomica & genetica",
+        "Subsidie & samenwerking"
+      ]
+    },
+    {
       "id": "b6041d50e294f934324475304b9e0d8c",
       "umc": "Maastricht UMC+",
       "title": "Zuyderland en Maastricht UMC+ krijgen subsidie voor acht gezamenlijke onderzoeken - Mijnstreek Vandaag",
@@ -671,19 +717,6 @@
       "umc": "Maastricht UMC+",
       "title": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie - parkstadactueel.nl",
       "summary": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie parkstadactueel.nl",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2FZby1LRGhrUUNOSDZIemM3M2NHNHlzMU9NbHk0dTlVQ0ZTcHczYkNmNGoyYlJVdjN0ODduRHd3Rmx0MEZzb0xScFNpcVAtckwzT1ROekJLRTlzSVBIV3l3ME4xTnh3cHdnRktNZXg2WU9ZcEphNlZIV0xleG1QZkdOUnJXMXlOQ1phR0V0M0hKZEFCYTNRX2xUcHZ6cWJnU1pob2FvSlVLQktpQ01iY2N1TnM5WHRUU0E?oc=5",
-      "source": "NEWS",
-      "published": "2026-06-15T07:00:00+00:00",
-      "tags": [
-        "Genomica & genetica",
-        "Subsidie & samenwerking"
-      ]
-    },
-    {
-      "id": "4cb9b53935afd8444c3048c81b53ef5c",
-      "umc": "Maastricht UMC+",
-      "title": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie - Parkstad Actueel",
-      "summary": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie Parkstad Actueel",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2FZby1LRGhrUUNOSDZIemM3M2NHNHlzMU9NbHk0dTlVQ0ZTcHczYkNmNGoyYlJVdjN0ODduRHd3Rmx0MEZzb0xScFNpcVAtckwzT1ROekJLRTlzSVBIV3l3ME4xTnh3cHdnRktNZXg2WU9ZcEphNlZIV0xleG1QZkdOUnJXMXlOQ1phR0V0M0hKZEFCYTNRX2xUcHZ6cWJnU1pob2FvSlVLQktpQ01iY2N1TnM5WHRUU0E?oc=5",
       "source": "NEWS",
       "published": "2026-06-15T07:00:00+00:00",
