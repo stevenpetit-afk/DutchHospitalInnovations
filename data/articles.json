@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T11:35:49.617243+00:00",
+  "last_updated": "2026-09-10T11:32:47.924090+00:00",
   "total": 69,
   "articles": [
     {
@@ -536,21 +536,21 @@
       ]
     },
     {
-      "id": "a0b51543b6f91a3f2b4e6dc3b43e1f43",
-      "umc": "Maastricht UMC+",
-      "title": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst - De Nieuwe Ster Maastricht",
-      "summary": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst De Nieuwe Ster Maastricht",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWtJMV91a1ZYYmtLVU9tNGpvWUtKTUJ2cGtxWk5VUEwtbXRUNzZZS0dIYml3Y1Q0ZnRLRk8zbFctenRQWUxCNkxYMXdpRjFoby1lT2czczlFNENjUXdsXzZRYXUwMlQ0b2ZOYWR2M1ZlaVNQZnkwRkN0dERMM1VqU2hyTFlOYmg5ZXJtQnRtczVadnRILUdaaU1wUVN5ZGE2RW9OMg?oc=5",
-      "source": "NEWS",
-      "published": "2026-07-01T07:00:00+00:00",
-      "tags": []
-    },
-    {
       "id": "5eaf0fdf0f7ba63821e761ec7aee9a13",
       "umc": "Maastricht UMC+",
       "title": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie - 1zuid.nl",
       "summary": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie 1zuid.nl",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNME9YNzFBaTk3R3Z5VjIxamY1cllUWGZpRUhGeGptWWpnOHJoV1FuUlVfZURCOGxEZjZ5Q0R0Uy1WTlY0alUyMVNFclZSeFluSUhvZnJNVFRiSzZhY3ZyWTIzNFVGME9uei01OTlkRVBsaXp0Vm0wUVdTN1VhMUpVdGNhdFBvU3R5UkhMTmlTUlVGejRoWmhNV05fVWRnVXFUU1Fvc2R2OFk?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T07:00:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "a0b51543b6f91a3f2b4e6dc3b43e1f43",
+      "umc": "Maastricht UMC+",
+      "title": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst - De Nieuwe Ster Maastricht",
+      "summary": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst De Nieuwe Ster Maastricht",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWtJMV91a1ZYYmtLVU9tNGpvWUtKTUJ2cGtxWk5VUEwtbXRUNzZZS0dIYml3Y1Q0ZnRLRk8zbFctenRQWUxCNkxYMXdpRjFoby1lT2czczlFNENjUXdsXzZRYXUwMlQ0b2ZOYWR2M1ZlaVNQZnkwRkN0dERMM1VqU2hyTFlOYmg5ZXJtQnRtczVadnRILUdaaU1wUVN5ZGE2RW9OMg?oc=5",
       "source": "NEWS",
       "published": "2026-07-01T07:00:00+00:00",
       "tags": []
@@ -699,6 +699,19 @@
       "tags": []
     },
     {
+      "id": "b880850245dab0bc0b0c4da433e5cbf3",
+      "umc": "Maastricht UMC+",
+      "title": "Zuyderland en Maastricht UMC+ krijgen subsidie voor acht gezamenlijke onderzoeken - mijnstreekvandaag.nl",
+      "summary": "Zuyderland en Maastricht UMC+ krijgen subsidie voor acht gezamenlijke onderzoeken mijnstreekvandaag.nl",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWU3Uk41QXRMbVloeVVveEI1clI1OEh0N3dweTRJUUhZdmNqTzJ3VzBXTEJ6aXAweVFjMGlhSnBzTW5vWHhrTTJNbmVNQlNBdTE5YU9MeXdqNmYweFJGV3BZaEMzWFhPYmlIUXpBSlBzMGFjZURiMXMzWnlFYloyLW1PaWNINzRkYjBFRFpVWkVOdUQ0dUdyS1hFYmZjNm5tRUgxeEx6bW5YNVJyeTJ1Y19Saw?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-15T07:00:00+00:00",
+      "tags": [
+        "Genomica & genetica",
+        "Subsidie & samenwerking"
+      ]
+    },
+    {
       "id": "b6041d50e294f934324475304b9e0d8c",
       "umc": "Maastricht UMC+",
       "title": "Zuyderland en Maastricht UMC+ krijgen subsidie voor acht gezamenlijke onderzoeken - Mijnstreek Vandaag",
@@ -730,19 +743,6 @@
       "title": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie - Parkstad Actueel",
       "summary": "Acht gezamenlijke onderzoeksprojecten van Zuyderland en MUMC+ ontvangen subsidie Parkstad Actueel",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2FZby1LRGhrUUNOSDZIemM3M2NHNHlzMU9NbHk0dTlVQ0ZTcHczYkNmNGoyYlJVdjN0ODduRHd3Rmx0MEZzb0xScFNpcVAtckwzT1ROekJLRTlzSVBIV3l3ME4xTnh3cHdnRktNZXg2WU9ZcEphNlZIV0xleG1QZkdOUnJXMXlOQ1phR0V0M0hKZEFCYTNRX2xUcHZ6cWJnU1pob2FvSlVLQktpQ01iY2N1TnM5WHRUU0E?oc=5",
-      "source": "NEWS",
-      "published": "2026-06-15T07:00:00+00:00",
-      "tags": [
-        "Genomica & genetica",
-        "Subsidie & samenwerking"
-      ]
-    },
-    {
-      "id": "b880850245dab0bc0b0c4da433e5cbf3",
-      "umc": "Maastricht UMC+",
-      "title": "Zuyderland en Maastricht UMC+ krijgen subsidie voor acht gezamenlijke onderzoeken - mijnstreekvandaag.nl",
-      "summary": "Zuyderland en Maastricht UMC+ krijgen subsidie voor acht gezamenlijke onderzoeken mijnstreekvandaag.nl",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWU3Uk41QXRMbVloeVVveEI1clI1OEh0N3dweTRJUUhZdmNqTzJ3VzBXTEJ6aXAweVFjMGlhSnBzTW5vWHhrTTJNbmVNQlNBdTE5YU9MeXdqNmYweFJGV3BZaEMzWFhPYmlIUXpBSlBzMGFjZURiMXMzWnlFYloyLW1PaWNINzRkYjBFRFpVWkVOdUQ0dUdyS1hFYmZjNm5tRUgxeEx6bW5YNVJyeTJ1Y19Saw?oc=5",
       "source": "NEWS",
       "published": "2026-06-15T07:00:00+00:00",
       "tags": [
