@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-09-13T12:07:53.404475+00:00",
-  "total": 71,
+  "last_updated": "2026-09-14T13:04:47.911769+00:00",
+  "total": 74,
   "articles": [
+    {
+      "id": "20b2ac0233270377bf3d022a17eeeaae",
+      "umc": "LUMC",
+      "title": "LUMC kweekt mini-binnenoor voor onderzoek naar gehoorverlies - ICT&health",
+      "summary": "LUMC kweekt mini-binnenoor voor onderzoek naar gehoorverlies ICT&health",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX004Sk5tTUZBZDY0am81LTZ0YVpMWENEeW5RRTZxclJIS1NEYXQ0TUxPYkR6LVFwbF84NEh2WVozbzhyTlQtVGgzSTdBbF82SFgtRFF0QnIwOEt5dFlGektsTGtUQk9OQk5ZaWtFMXFaYjYyVTBUTXRRdVlvV3pLeFRSRDV4VktRNGEyaXNlYmRWSmlPS1ZF?oc=5",
+      "source": "NEWS",
+      "published": "2026-09-14T05:00:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "526efe260056f1790b8dada30bfef0da",
+      "umc": "UMCG",
+      "title": "Onderzoek UMCG: artsen willen graag duurzamer voorschrijven, maar weten niet hoe - Groninger Internet Courant",
+      "summary": "Onderzoek UMCG: artsen willen graag duurzamer voorschrijven, maar weten niet hoe Groninger Internet Courant",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWVjYmQtYWJMVDZuR2RuNlVBNFRMTDVmZTZxdUE3YThJQWpjUEhaLUtJQ0kyQXFWZmRrbXZJX1FUc0dnTkhpVHpnVmJCdWpIUjBza1hyTXY2U0I5MURaMzR4TTZRc2hUTl9BcEdaWXZfUDVuLXJ3S0tJMHlPR3FCREtiVXlGNFhZSC1Td3BIVWY1V1puZmtKa0pEQU16ZGpJdnc?oc=5",
+      "source": "NEWS",
+      "published": "2026-09-13T08:39:08+00:00",
+      "tags": []
+    },
     {
       "id": "5616e4a81a68a506a7eb0c1a93bd0f8a",
       "umc": "UMCG",
@@ -284,6 +304,16 @@
         "Kanker & oncologie",
         "Genomica & genetica"
       ]
+    },
+    {
+      "id": "b8dc3090cf98a431af4c1987fb6258b9",
+      "umc": "Amsterdam UMC",
+      "title": "15 Amsterdam UMC’ers gaan vernieuwend onderzoek doen met Veni-beurs - amsterdamumc.org",
+      "summary": "15 Amsterdam UMC’ers gaan vernieuwend onderzoek doen met Veni-beurs amsterdamumc.org",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaGZFTmFkT1h2dWhWamV3UUg0RUsxcG8zRVJfeWZYcElsNHVRNXBhdV9LNlgxOExyUG93c3YydUhNd2Y0eGZud1BPaURVeVRaeFVPbXFYVUxZdTQwQnNjd2E3c2FQbWs0clhsZ1ZPaTZPQVp6SzdlX214b05SU2tNTzVUVG95VVRDbVQ4TVZyYXN2dEJvMTRPajd3a0o2S2xxSThOc0gwM1REUQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-16T07:00:00+00:00",
+      "tags": []
     },
     {
       "id": "2e721c5fb6da35f68c0935cf7023fefd",
