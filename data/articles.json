@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T13:04:47.911769+00:00",
+  "last_updated": "2026-09-15T11:54:42.528734+00:00",
   "total": 74,
   "articles": [
     {
@@ -82,18 +82,6 @@
       ]
     },
     {
-      "id": "7074db37b642ec7fb1e5ad49ecfac259",
-      "umc": "Radboudumc",
-      "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - AD.nl",
-      "summary": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc AD.nl",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjgyRDdkVVJKMlpNclJHQ2pva1EyeHBBVDJFc1paVmNWX1h6bmVGWEYwRnd4T0pFa3E3M2l0ZUI0Q0dxUVZnX0o1blpLUnBqN29SZnJIRUV1d3Q0ZEZ0Zy1KenkxcGVzR1BxbGpEZC1MNHRyLWpDeDlRN2xKODBZSVExMGdtMG91Vzl5eXphbm9IQVpJTk1IMFB2ZllNQTh3Y09iUHlZUGtfTlZjM2JJSHB5a0JibGNRVUtDemNEUmI5d3ZBam11TGVB?oc=5",
-      "source": "NEWS",
-      "published": "2026-08-23T07:00:00+00:00",
-      "tags": [
-        "Kanker & oncologie"
-      ]
-    },
-    {
       "id": "b129a1570b6b711d317f2ad95a878d5f",
       "umc": "Radboudumc",
       "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - destentor.nl",
@@ -104,6 +92,18 @@
       "tags": [
         "Kanker & oncologie",
         "Cardiologie"
+      ]
+    },
+    {
+      "id": "7074db37b642ec7fb1e5ad49ecfac259",
+      "umc": "Radboudumc",
+      "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - AD.nl",
+      "summary": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc AD.nl",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjgyRDdkVVJKMlpNclJHQ2pva1EyeHBBVDJFc1paVmNWX1h6bmVGWEYwRnd4T0pFa3E3M2l0ZUI0Q0dxUVZnX0o1blpLUnBqN29SZnJIRUV1d3Q0ZEZ0Zy1KenkxcGVzR1BxbGpEZC1MNHRyLWpDeDlRN2xKODBZSVExMGdtMG91Vzl5eXphbm9IQVpJTk1IMFB2ZllNQTh3Y09iUHlZUGtfTlZjM2JJSHB5a0JibGNRVUtDemNEUmI5d3ZBam11TGVB?oc=5",
+      "source": "NEWS",
+      "published": "2026-08-23T07:00:00+00:00",
+      "tags": [
+        "Kanker & oncologie"
       ]
     },
     {
@@ -137,7 +137,7 @@
       "summary": "Onderzoek UMCG: minder mensen naar cardioloog dankzij snelle CT-scan Groninger Internet Courant",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0E0bnFFbmZ5WXlDQi0ySXNMN3pLZ3liWDU5dXpPU2FLMlhtdUJQRm0zakI5cFZxal9xMGl3MzJBanAySG9lZG5tTlIzYkdZeGFJQ1AtRzhXOGNWQl9FSlRxN3ZJU2Zwd1Vvb204M1lQNGNpS1VuYnlpekd5bmtVRmFETkhTN3c2ZF9zejI4MldjR2ZqYXdr?oc=5",
       "source": "NEWS",
-      "published": "2026-08-18T07:00:00+00:00",
+      "published": "2026-08-18T14:24:19+00:00",
       "tags": [
         "Diagnostiek & beeldvorming"
       ]
@@ -590,21 +590,21 @@
       ]
     },
     {
-      "id": "5eaf0fdf0f7ba63821e761ec7aee9a13",
-      "umc": "Maastricht UMC+",
-      "title": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie - 1zuid.nl",
-      "summary": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie 1zuid.nl",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNME9YNzFBaTk3R3Z5VjIxamY1cllUWGZpRUhGeGptWWpnOHJoV1FuUlVfZURCOGxEZjZ5Q0R0Uy1WTlY0alUyMVNFclZSeFluSUhvZnJNVFRiSzZhY3ZyWTIzNFVGME9uei01OTlkRVBsaXp0Vm0wUVdTN1VhMUpVdGNhdFBvU3R5UkhMTmlTUlVGejRoWmhNV05fVWRnVXFUU1Fvc2R2OFk?oc=5",
-      "source": "NEWS",
-      "published": "2026-07-01T07:00:00+00:00",
-      "tags": []
-    },
-    {
       "id": "a0b51543b6f91a3f2b4e6dc3b43e1f43",
       "umc": "Maastricht UMC+",
       "title": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst - De Nieuwe Ster Maastricht",
       "summary": "MUMC+ krijgt 4,6 miljoen voor nieuwe reconstructietechniek borst De Nieuwe Ster Maastricht",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWtJMV91a1ZYYmtLVU9tNGpvWUtKTUJ2cGtxWk5VUEwtbXRUNzZZS0dIYml3Y1Q0ZnRLRk8zbFctenRQWUxCNkxYMXdpRjFoby1lT2czczlFNENjUXdsXzZRYXUwMlQ0b2ZOYWR2M1ZlaVNQZnkwRkN0dERMM1VqU2hyTFlOYmg5ZXJtQnRtczVadnRILUdaaU1wUVN5ZGE2RW9OMg?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T07:00:00+00:00",
+      "tags": []
+    },
+    {
+      "id": "5eaf0fdf0f7ba63821e761ec7aee9a13",
+      "umc": "Maastricht UMC+",
+      "title": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie - 1zuid.nl",
+      "summary": "MUMC+ krijgt 4,6 miljoen euro voor onderzoek naar nieuwe borstreconstructie 1zuid.nl",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNME9YNzFBaTk3R3Z5VjIxamY1cllUWGZpRUhGeGptWWpnOHJoV1FuUlVfZURCOGxEZjZ5Q0R0Uy1WTlY0alUyMVNFclZSeFluSUhvZnJNVFRiSzZhY3ZyWTIzNFVGME9uei01OTlkRVBsaXp0Vm0wUVdTN1VhMUpVdGNhdFBvU3R5UkhMTmlTUlVGejRoWmhNV05fVWRnVXFUU1Fvc2R2OFk?oc=5",
       "source": "NEWS",
       "published": "2026-07-01T07:00:00+00:00",
       "tags": []
