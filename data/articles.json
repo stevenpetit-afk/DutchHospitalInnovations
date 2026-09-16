@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-09-15T11:54:42.528734+00:00",
-  "total": 74,
+  "last_updated": "2026-09-16T11:50:50.321405+00:00",
+  "total": 75,
   "articles": [
+    {
+      "id": "dc894f9b9deae2fa41da4660f086353b",
+      "umc": "Radboudumc",
+      "title": "Onderzoek Radboudumc: longkankerpatiënten die klachten bijhouden in app leven langer - Drimble",
+      "summary": "Onderzoek Radboudumc: longkankerpatiënten die klachten bijhouden in app leven langer Drimble",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOODQ0TlczSTk1TTc0SE5nQWNNSXhLZFM4ZVVDM0dZSnU4MWxMZVNhQVowc0xSMHY2QTFQc0RCelFXVFIxQ29zSWk1UGNEZ3hKeEd3b1dNaHlJMUppYUJtOXV0UERCN3czeDZObU1QTlViRy1EdWMzY3FlMmp4UDVtSDFIdDJLdEM1NTF3RnJVXy1qYUJaa3ViaWlKUGlQTS1HbHZfb2xHeXZaSTlTMDRJNUYyTU5KY0pHZ0Q1c0VVZWxLUHZQTUJ0ZTYxY25KTjloU2dYeUIwR25Ockk?oc=5",
+      "source": "NEWS",
+      "published": "2026-09-16T05:10:56+00:00",
+      "tags": [
+        "Kanker & oncologie"
+      ]
+    },
     {
       "id": "20b2ac0233270377bf3d022a17eeeaae",
       "umc": "LUMC",
@@ -82,6 +94,18 @@
       ]
     },
     {
+      "id": "7074db37b642ec7fb1e5ad49ecfac259",
+      "umc": "Radboudumc",
+      "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - AD.nl",
+      "summary": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc AD.nl",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjgyRDdkVVJKMlpNclJHQ2pva1EyeHBBVDJFc1paVmNWX1h6bmVGWEYwRnd4T0pFa3E3M2l0ZUI0Q0dxUVZnX0o1blpLUnBqN29SZnJIRUV1d3Q0ZEZ0Zy1KenkxcGVzR1BxbGpEZC1MNHRyLWpDeDlRN2xKODBZSVExMGdtMG91Vzl5eXphbm9IQVpJTk1IMFB2ZllNQTh3Y09iUHlZUGtfTlZjM2JJSHB5a0JibGNRVUtDemNEUmI5d3ZBam11TGVB?oc=5",
+      "source": "NEWS",
+      "published": "2026-08-23T07:00:00+00:00",
+      "tags": [
+        "Kanker & oncologie"
+      ]
+    },
+    {
       "id": "b129a1570b6b711d317f2ad95a878d5f",
       "umc": "Radboudumc",
       "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - destentor.nl",
@@ -92,18 +116,6 @@
       "tags": [
         "Kanker & oncologie",
         "Cardiologie"
-      ]
-    },
-    {
-      "id": "7074db37b642ec7fb1e5ad49ecfac259",
-      "umc": "Radboudumc",
-      "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - AD.nl",
-      "summary": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc AD.nl",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjgyRDdkVVJKMlpNclJHQ2pva1EyeHBBVDJFc1paVmNWX1h6bmVGWEYwRnd4T0pFa3E3M2l0ZUI0Q0dxUVZnX0o1blpLUnBqN29SZnJIRUV1d3Q0ZEZ0Zy1KenkxcGVzR1BxbGpEZC1MNHRyLWpDeDlRN2xKODBZSVExMGdtMG91Vzl5eXphbm9IQVpJTk1IMFB2ZllNQTh3Y09iUHlZUGtfTlZjM2JJSHB5a0JibGNRVUtDemNEUmI5d3ZBam11TGVB?oc=5",
-      "source": "NEWS",
-      "published": "2026-08-23T07:00:00+00:00",
-      "tags": [
-        "Kanker & oncologie"
       ]
     },
     {
@@ -662,20 +674,20 @@
       ]
     },
     {
-      "id": "d7adcce7ee79e22d64827ede62405924",
+      "id": "aaef4f4f4214fe0e47c066d7de882697",
       "umc": "LUMC",
-      "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - Leids Universitair Medisch Centrum | LUMC",
-      "summary": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek Leids Universitair Medisch Centrum | LUMC",
+      "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - lumc.nl",
+      "summary": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek lumc.nl",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wV0JhNDhaOXpiZjd0cjBjejJDb2dyeHFja3BFS3VsMUxnNF90MnlnUmJFajY1NlJ2YVdLb2xJU2Z5MTBzZDZpY19WX0poT1F5RzM5bDNaLXRnODFzU241alVhZ0ZoOFJ4bzY5SGNIbzZLT3VTYXUzNHlVdjQ?oc=5",
       "source": "NEWS",
       "published": "2026-06-26T09:03:57+00:00",
       "tags": []
     },
     {
-      "id": "aaef4f4f4214fe0e47c066d7de882697",
+      "id": "d7adcce7ee79e22d64827ede62405924",
       "umc": "LUMC",
-      "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - lumc.nl",
-      "summary": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek lumc.nl",
+      "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - Leids Universitair Medisch Centrum | LUMC",
+      "summary": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek Leids Universitair Medisch Centrum | LUMC",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wV0JhNDhaOXpiZjd0cjBjejJDb2dyeHFja3BFS3VsMUxnNF90MnlnUmJFajY1NlJ2YVdLb2xJU2Z5MTBzZDZpY19WX0poT1F5RzM5bDNaLXRnODFzU241alVhZ0ZoOFJ4bzY5SGNIbzZLT3VTYXUzNHlVdjQ?oc=5",
       "source": "NEWS",
       "published": "2026-06-26T09:03:57+00:00",
@@ -704,10 +716,10 @@
       ]
     },
     {
-      "id": "a2e2a53c608e429fe06450f936c64f5f",
+      "id": "05ac45f434105040c19048156d54d4f4",
       "umc": "LUMC",
-      "title": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker - Leids Universitair Medisch Centrum | LUMC",
-      "summary": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker Leids Universitair Medisch Centrum | LUMC",
+      "title": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker - lumc.nl",
+      "summary": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker lumc.nl",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWW5teFJSVEI2dHBZT1V1MUJ1SnF6T2RPNTlmOTgxS3dBUmxHTVpiYXM5eEVEdklGdUVFcGhwUXR1MWRaOEVzc1p6dVdGNDFfRHdYYUhWMW4xZWMxZUh5N2xlNmtpTlVuOUJuZjM5Vzczd3RfZ3B1bjd3QVNodnV2LTVOeDFmdldud1NFOVFDVEZIMktEZllkSzNHWTZ6cmxDWUhxNk9JMnpLdHplU0NXY09hc0x3UQ?oc=5",
       "source": "NEWS",
       "published": "2026-06-24T06:57:16+00:00",
@@ -717,10 +729,10 @@
       ]
     },
     {
-      "id": "05ac45f434105040c19048156d54d4f4",
+      "id": "a2e2a53c608e429fe06450f936c64f5f",
       "umc": "LUMC",
-      "title": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker - lumc.nl",
-      "summary": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker lumc.nl",
+      "title": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker - Leids Universitair Medisch Centrum | LUMC",
+      "summary": "Oratie Judith Kroep | Immunotherapie gerichter inzetten bij gynaecologische kanker Leids Universitair Medisch Centrum | LUMC",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWW5teFJSVEI2dHBZT1V1MUJ1SnF6T2RPNTlmOTgxS3dBUmxHTVpiYXM5eEVEdklGdUVFcGhwUXR1MWRaOEVzc1p6dVdGNDFfRHdYYUhWMW4xZWMxZUh5N2xlNmtpTlVuOUJuZjM5Vzczd3RfZ3B1bjd3QVNodnV2LTVOeDFmdldud1NFOVFDVEZIMktEZllkSzNHWTZ6cmxDWUhxNk9JMnpLdHplU0NXY09hc0x3UQ?oc=5",
       "source": "NEWS",
       "published": "2026-06-24T06:57:16+00:00",
