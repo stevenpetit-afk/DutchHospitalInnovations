@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-21T13:03:07.114149+00:00",
-  "total": 75,
+  "last_updated": "2026-09-22T11:52:59.072944+00:00",
+  "total": 76,
   "articles": [
     {
       "id": "dc894f9b9deae2fa41da4660f086353b",
@@ -13,6 +13,16 @@
       "tags": [
         "Kanker & oncologie"
       ]
+    },
+    {
+      "id": "5f6892edac62b56f66f92d88bbf4f6df",
+      "umc": "LUMC",
+      "title": "LUMC kweekt mini-binnenoor voor onderzoek naar gehoorverlies - icthealth.nl",
+      "summary": "LUMC kweekt mini-binnenoor voor onderzoek naar gehoorverlies icthealth.nl",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX004Sk5tTUZBZDY0am81LTZ0YVpMWENEeW5RRTZxclJIS1NEYXQ0TUxPYkR6LVFwbF84NEh2WVozbzhyTlQtVGgzSTdBbF82SFgtRFF0QnIwOEt5dFlGektsTGtUQk9OQk5ZaWtFMXFaYjYyVTBUTXRRdVlvV3pLeFRSRDV4VktRNGEyaXNlYmRWSmlPS1ZF?oc=5",
+      "source": "NEWS",
+      "published": "2026-09-14T05:00:00+00:00",
+      "tags": []
     },
     {
       "id": "20b2ac0233270377bf3d022a17eeeaae",
@@ -94,6 +104,18 @@
       ]
     },
     {
+      "id": "c7c41c07aef76b4f62f593bba2758ed6",
+      "umc": "Radboudumc",
+      "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - ad.nl",
+      "summary": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc ad.nl",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjgyRDdkVVJKMlpNclJHQ2pva1EyeHBBVDJFc1paVmNWX1h6bmVGWEYwRnd4T0pFa3E3M2l0ZUI0Q0dxUVZnX0o1blpLUnBqN29SZnJIRUV1d3Q0ZEZ0Zy1KenkxcGVzR1BxbGpEZC1MNHRyLWpDeDlRN2xKODBZSVExMGdtMG91Vzl5eXphbm9IQVpJTk1IMFB2ZllNQTh3Y09iUHlZUGtfTlZjM2JJSHB5a0JibGNRVUtDemNEUmI5d3ZBam11TGVB?oc=5",
+      "source": "NEWS",
+      "published": "2026-08-23T07:00:00+00:00",
+      "tags": [
+        "Kanker & oncologie"
+      ]
+    },
+    {
       "id": "7074db37b642ec7fb1e5ad49ecfac259",
       "umc": "Radboudumc",
       "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - AD.nl",
@@ -116,18 +138,6 @@
       "tags": [
         "Kanker & oncologie",
         "Cardiologie"
-      ]
-    },
-    {
-      "id": "c7c41c07aef76b4f62f593bba2758ed6",
-      "umc": "Radboudumc",
-      "title": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc - ad.nl",
-      "summary": "Doorbraak: operatie bij endeldarmkanker meestal niet meer nodig, bewijst onderzoek Radboudumc ad.nl",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjgyRDdkVVJKMlpNclJHQ2pva1EyeHBBVDJFc1paVmNWX1h6bmVGWEYwRnd4T0pFa3E3M2l0ZUI0Q0dxUVZnX0o1blpLUnBqN29SZnJIRUV1d3Q0ZEZ0Zy1KenkxcGVzR1BxbGpEZC1MNHRyLWpDeDlRN2xKODBZSVExMGdtMG91Vzl5eXphbm9IQVpJTk1IMFB2ZllNQTh3Y09iUHlZUGtfTlZjM2JJSHB5a0JibGNRVUtDemNEUmI5d3ZBam11TGVB?oc=5",
-      "source": "NEWS",
-      "published": "2026-08-23T07:00:00+00:00",
-      "tags": [
-        "Kanker & oncologie"
       ]
     },
     {
@@ -564,18 +574,6 @@
       "tags": []
     },
     {
-      "id": "4ccb8e5c22f1cbe8c19c9498821b4056",
-      "umc": "UMCG",
-      "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - Groninger Internet Courant",
-      "summary": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht Groninger Internet Courant",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHF5Y0Y0VHFQOXJMbUdoS3NXeFFmcWVsc3doMXkybTZ4aGY5U3ZWcGw5OUJrQVBNTWw5OHRhMXI3M3E1c2ozU1Myc1RKMjZFLS1PYUI2ZUdBNXF0S3NLcEpyU3VIamxuRkdwSTVLZlZzR0tiZGdYYzNLT2p4bTQ1SFg5S2I4cTBzaFAtNzdRZEQyR2dJeGFGM3FWaS1wRVJGVEdWLWtrSkRMTjRLempNSG9nanc5aWVkWFp4aDBQZVRQRWNiZ0E0RA?oc=5",
-      "source": "NEWS",
-      "published": "2026-07-01T11:15:53+00:00",
-      "tags": [
-        "Farmacologie"
-      ]
-    },
-    {
       "id": "60e45a3b98e93681ab2e1b16e161f736",
       "umc": "Erasmus MC",
       "title": "Robotarm helpt neurochirurgen bij precisie-operaties aan de hersenstam",
@@ -598,6 +596,18 @@
       "source": "NEWS",
       "published": "2026-07-01T07:00:00+00:00",
       "tags": []
+    },
+    {
+      "id": "4ccb8e5c22f1cbe8c19c9498821b4056",
+      "umc": "UMCG",
+      "title": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht - Groninger Internet Courant",
+      "summary": "Studie UMCG: mogelijk nieuw medicijn voor depressie bij chronische ziekte, deelnemers gezocht Groninger Internet Courant",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHF5Y0Y0VHFQOXJMbUdoS3NXeFFmcWVsc3doMXkybTZ4aGY5U3ZWcGw5OUJrQVBNTWw5OHRhMXI3M3E1c2ozU1Myc1RKMjZFLS1PYUI2ZUdBNXF0S3NLcEpyU3VIamxuRkdwSTVLZlZzR0tiZGdYYzNLT2p4bTQ1SFg5S2I4cTBzaFAtNzdRZEQyR2dJeGFGM3FWaS1wRVJGVEdWLWtrSkRMTjRLempNSG9nanc5aWVkWFp4aDBQZVRQRWNiZ0E0RA?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-01T07:00:00+00:00",
+      "tags": [
+        "Farmacologie"
+      ]
     },
     {
       "id": "8ab5b20ebfecf2bc478937e9fe5b7fce",
@@ -674,6 +684,16 @@
       ]
     },
     {
+      "id": "aaef4f4f4214fe0e47c066d7de882697",
+      "umc": "LUMC",
+      "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - lumc.nl",
+      "summary": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek lumc.nl",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wV0JhNDhaOXpiZjd0cjBjejJDb2dyeHFja3BFS3VsMUxnNF90MnlnUmJFajY1NlJ2YVdLb2xJU2Z5MTBzZDZpY19WX0poT1F5RzM5bDNaLXRnODFzU241alVhZ0ZoOFJ4bzY5SGNIbzZLT3VTYXUzNHlVdjQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-26T09:03:57+00:00",
+      "tags": []
+    },
+    {
       "id": "18cd9261cd32d298481a9ac74e5609a3",
       "umc": "LUMC",
       "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - LUMC",
@@ -688,16 +708,6 @@
       "umc": "LUMC",
       "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - Leids Universitair Medisch Centrum | LUMC",
       "summary": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek Leids Universitair Medisch Centrum | LUMC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wV0JhNDhaOXpiZjd0cjBjejJDb2dyeHFja3BFS3VsMUxnNF90MnlnUmJFajY1NlJ2YVdLb2xJU2Z5MTBzZDZpY19WX0poT1F5RzM5bDNaLXRnODFzU241alVhZ0ZoOFJ4bzY5SGNIbzZLT3VTYXUzNHlVdjQ?oc=5",
-      "source": "NEWS",
-      "published": "2026-06-26T09:03:57+00:00",
-      "tags": []
-    },
-    {
-      "id": "aaef4f4f4214fe0e47c066d7de882697",
-      "umc": "LUMC",
-      "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - lumc.nl",
-      "summary": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek lumc.nl",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wV0JhNDhaOXpiZjd0cjBjejJDb2dyeHFja3BFS3VsMUxnNF90MnlnUmJFajY1NlJ2YVdLb2xJU2Z5MTBzZDZpY19WX0poT1F5RzM5bDNaLXRnODFzU241alVhZ0ZoOFJ4bzY5SGNIbzZLT3VTYXUzNHlVdjQ?oc=5",
       "source": "NEWS",
       "published": "2026-06-26T09:03:57+00:00",
