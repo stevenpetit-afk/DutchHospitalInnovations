@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T11:52:59.072944+00:00",
+  "last_updated": "2026-09-23T11:52:23.745049+00:00",
   "total": 76,
   "articles": [
     {
@@ -15,20 +15,20 @@
       ]
     },
     {
-      "id": "5f6892edac62b56f66f92d88bbf4f6df",
+      "id": "20b2ac0233270377bf3d022a17eeeaae",
       "umc": "LUMC",
-      "title": "LUMC kweekt mini-binnenoor voor onderzoek naar gehoorverlies - icthealth.nl",
-      "summary": "LUMC kweekt mini-binnenoor voor onderzoek naar gehoorverlies icthealth.nl",
+      "title": "LUMC kweekt mini-binnenoor voor onderzoek naar gehoorverlies - ICT&health",
+      "summary": "LUMC kweekt mini-binnenoor voor onderzoek naar gehoorverlies ICT&health",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX004Sk5tTUZBZDY0am81LTZ0YVpMWENEeW5RRTZxclJIS1NEYXQ0TUxPYkR6LVFwbF84NEh2WVozbzhyTlQtVGgzSTdBbF82SFgtRFF0QnIwOEt5dFlGektsTGtUQk9OQk5ZaWtFMXFaYjYyVTBUTXRRdVlvV3pLeFRSRDV4VktRNGEyaXNlYmRWSmlPS1ZF?oc=5",
       "source": "NEWS",
       "published": "2026-09-14T05:00:00+00:00",
       "tags": []
     },
     {
-      "id": "20b2ac0233270377bf3d022a17eeeaae",
+      "id": "5f6892edac62b56f66f92d88bbf4f6df",
       "umc": "LUMC",
-      "title": "LUMC kweekt mini-binnenoor voor onderzoek naar gehoorverlies - ICT&health",
-      "summary": "LUMC kweekt mini-binnenoor voor onderzoek naar gehoorverlies ICT&health",
+      "title": "LUMC kweekt mini-binnenoor voor onderzoek naar gehoorverlies - icthealth.nl",
+      "summary": "LUMC kweekt mini-binnenoor voor onderzoek naar gehoorverlies icthealth.nl",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX004Sk5tTUZBZDY0am81LTZ0YVpMWENEeW5RRTZxclJIS1NEYXQ0TUxPYkR6LVFwbF84NEh2WVozbzhyTlQtVGgzSTdBbF82SFgtRFF0QnIwOEt5dFlGektsTGtUQk9OQk5ZaWtFMXFaYjYyVTBUTXRRdVlvV3pLeFRSRDV4VktRNGEyaXNlYmRWSmlPS1ZF?oc=5",
       "source": "NEWS",
       "published": "2026-09-14T05:00:00+00:00",
@@ -684,6 +684,16 @@
       ]
     },
     {
+      "id": "d7adcce7ee79e22d64827ede62405924",
+      "umc": "LUMC",
+      "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - Leids Universitair Medisch Centrum | LUMC",
+      "summary": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek Leids Universitair Medisch Centrum | LUMC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wV0JhNDhaOXpiZjd0cjBjejJDb2dyeHFja3BFS3VsMUxnNF90MnlnUmJFajY1NlJ2YVdLb2xJU2Z5MTBzZDZpY19WX0poT1F5RzM5bDNaLXRnODFzU241alVhZ0ZoOFJ4bzY5SGNIbzZLT3VTYXUzNHlVdjQ?oc=5",
+      "source": "NEWS",
+      "published": "2026-06-26T09:03:57+00:00",
+      "tags": []
+    },
+    {
       "id": "aaef4f4f4214fe0e47c066d7de882697",
       "umc": "LUMC",
       "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - lumc.nl",
@@ -698,16 +708,6 @@
       "umc": "LUMC",
       "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - LUMC",
       "summary": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek LUMC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wV0JhNDhaOXpiZjd0cjBjejJDb2dyeHFja3BFS3VsMUxnNF90MnlnUmJFajY1NlJ2YVdLb2xJU2Z5MTBzZDZpY19WX0poT1F5RzM5bDNaLXRnODFzU241alVhZ0ZoOFJ4bzY5SGNIbzZLT3VTYXUzNHlVdjQ?oc=5",
-      "source": "NEWS",
-      "published": "2026-06-26T09:03:57+00:00",
-      "tags": []
-    },
-    {
-      "id": "d7adcce7ee79e22d64827ede62405924",
-      "umc": "LUMC",
-      "title": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek - Leids Universitair Medisch Centrum | LUMC",
-      "summary": "Eerste patiënt behandeld in nieuwe fase van veelbelovend type 1 diabetes-onderzoek Leids Universitair Medisch Centrum | LUMC",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wV0JhNDhaOXpiZjd0cjBjejJDb2dyeHFja3BFS3VsMUxnNF90MnlnUmJFajY1NlJ2YVdLb2xJU2Z5MTBzZDZpY19WX0poT1F5RzM5bDNaLXRnODFzU241alVhZ0ZoOFJ4bzY5SGNIbzZLT3VTYXUzNHlVdjQ?oc=5",
       "source": "NEWS",
       "published": "2026-06-26T09:03:57+00:00",
