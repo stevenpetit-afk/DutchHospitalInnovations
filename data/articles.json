@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T12:53:48.499947+00:00",
-  "total": 80,
+  "last_updated": "2026-10-03T11:50:50.015450+00:00",
+  "total": 82,
   "articles": [
     {
       "id": "9409ed175df39eec1bb5376b35c081de",
@@ -10,6 +10,26 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb0VVdVZsVUNLYTV0ZzZpNmV1SDk3Umt4Vm1FS19BRXNYV25oRnlUYUt5NXl4ODFjZGtVLTBiQV84b3JhVkp4dlVTeklYQmppTWJ4OTdHeklCUl84R3NJU2xWM1Jfb280NlNUS3Y0c2JFUnYxYzRROHNDQ2xxMGNScmNkNVRDeW1LdUhHSTYwNDNzdkdXcVc3cnBlS0FwYktSYWh1Rjc1OUNGMmtrdThzLVJjckhySFhFaXdXd0hPRFB2Wk1DV3JpeHJQM3d0Q0FMTlpXTVJn?oc=5",
       "source": "NEWS",
       "published": "2026-10-02T07:03:43+00:00",
+      "tags": []
+    },
+    {
+      "id": "a613710f230abcdef2e00ac6debe8436",
+      "umc": "Radboudumc",
+      "title": "Krakers aangehouden, megafraudezaak in Arnhem en doorbraak Radboudumc op 1 oktober - drimble.nl",
+      "summary": "Krakers aangehouden, megafraudezaak in Arnhem en doorbraak Radboudumc op 1 oktober drimble.nl",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb0VVdVZsVUNLYTV0ZzZpNmV1SDk3Umt4Vm1FS19BRXNYV25oRnlUYUt5NXl4ODFjZGtVLTBiQV84b3JhVkp4dlVTeklYQmppTWJ4OTdHeklCUl84R3NJU2xWM1Jfb280NlNUS3Y0c2JFUnYxYzRROHNDQ2xxMGNScmNkNVRDeW1LdUhHSTYwNDNzdkdXcVc3cnBlS0FwYktSYWh1Rjc1OUNGMmtrdThzLVJjckhySFhFaXdXd0hPRFB2Wk1DV3JpeHJQM3d0Q0FMTlpXTVJn?oc=5",
+      "source": "NEWS",
+      "published": "2026-10-02T07:02:43+00:00",
+      "tags": []
+    },
+    {
+      "id": "5caf3f8617bd656c797414a01a4cead0",
+      "umc": "Radboudumc",
+      "title": "Krakers aangehouden, megafraudezaak in Arnhem en doorbraak Radboudumc op 1 oktober - gld.nl",
+      "summary": "Krakers aangehouden, megafraudezaak in Arnhem en doorbraak Radboudumc op 1 oktober gld.nl",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRDAyVFF5Qjlod2ZaMjdZd1J6YTBaU1hvQWlCR0VSTjdHYUN1bXQ3YnpsZWRoWmZfa0xvaXJOaGxKSlhtcXVXNUp3N0J3c2lZRVI2TGdWUFBlY0pfREJIWE4zcVZudWU1MkphRzBaOHBhdndQRG1hTmhJU0dIRnNLdmtHQnhNRTU0QkhpU1l1UVZpeFVqSmxYN0NKX3JNMjdhZTNWRmcyNmw2UHV4aWR5bVlmV0lXdw?oc=5",
+      "source": "NEWS",
+      "published": "2026-10-01T19:28:29+00:00",
       "tags": []
     },
     {
@@ -274,18 +294,6 @@
       ]
     },
     {
-      "id": "db470e966aa05e1c2b427a6ceae102e6",
-      "umc": "Maastricht UMC+",
-      "title": "Hartstichting deelt drie Dekkerbeurzen uit aan onderzoekers MUMC+ - ICT&health",
-      "summary": "Hartstichting deelt drie Dekkerbeurzen uit aan onderzoekers MUMC+ ICT&health",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVVlVRThjLUt3STliNXkzRU1EdTZXN243MF9RUE5VREVRaThtSkFfanl4cF92Y2haTFhxMFhHUU82cF9rRXUtZFRFRm9TRXluc0hfUTVoeXNnOUZfa2k2WTZNOUMwbEdBbXNvM0dEQWJMN1ZORTF0Tm5ZUEljWnY5aHl4QlVUb0hTUlBIbTl3Mk1VczVKbmZCVGJ0Q2g?oc=5",
-      "source": "NEWS",
-      "published": "2026-07-29T07:00:00+00:00",
-      "tags": [
-        "Cardiologie"
-      ]
-    },
-    {
       "id": "94cd7e496f823c1a1638ae45fe84c1d2",
       "umc": "Maastricht UMC+",
       "title": "Hartstichting deelt drie Dekkerbeurzen uit aan onderzoekers MUMC+ - icthealth.nl",
@@ -298,10 +306,22 @@
       ]
     },
     {
-      "id": "e610612e7411f4bfb3550bc8cd275454",
+      "id": "db470e966aa05e1c2b427a6ceae102e6",
+      "umc": "Maastricht UMC+",
+      "title": "Hartstichting deelt drie Dekkerbeurzen uit aan onderzoekers MUMC+ - ICT&health",
+      "summary": "Hartstichting deelt drie Dekkerbeurzen uit aan onderzoekers MUMC+ ICT&health",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVVlVRThjLUt3STliNXkzRU1EdTZXN243MF9RUE5VREVRaThtSkFfanl4cF92Y2haTFhxMFhHUU82cF9rRXUtZFRFRm9TRXluc0hfUTVoeXNnOUZfa2k2WTZNOUMwbEdBbXNvM0dEQWJMN1ZORTF0Tm5ZUEljWnY5aHl4QlVUb0hTUlBIbTl3Mk1VczVKbmZCVGJ0Q2g?oc=5",
+      "source": "NEWS",
+      "published": "2026-07-29T07:00:00+00:00",
+      "tags": [
+        "Cardiologie"
+      ]
+    },
+    {
+      "id": "d3f2918f19248633caad253382136a26",
       "umc": "UMCG",
-      "title": "Drie UMCG-onderzoekers krijgen beurs voor vernieuwend onderzoek - ICT&health",
-      "summary": "Drie UMCG-onderzoekers krijgen beurs voor vernieuwend onderzoek ICT&health",
+      "title": "Drie UMCG-onderzoekers krijgen beurs voor vernieuwend onderzoek - icthealth.nl",
+      "summary": "Drie UMCG-onderzoekers krijgen beurs voor vernieuwend onderzoek icthealth.nl",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlNNSUcyM3BjbmJmV1ZaYWFBc1RPa3U3RWxKQlcxY0htUmh5UTM1WHJWZTN5T2YwSmE0NEhwa1BJZE1ZdDN4QndTcXA3QWw4eGlvVFdaS1R3dzdUUGMxX2tkY2lkRWNraXh2d0dERUt0d294YUZkT2syUGFucEdIQ1k3OFV5S0NNSmg2aVdwVWRRQWRVbDQ4QWUyWQ?oc=5",
       "source": "NEWS",
       "published": "2026-07-27T07:00:00+00:00",
@@ -310,10 +330,10 @@
       ]
     },
     {
-      "id": "d3f2918f19248633caad253382136a26",
+      "id": "e610612e7411f4bfb3550bc8cd275454",
       "umc": "UMCG",
-      "title": "Drie UMCG-onderzoekers krijgen beurs voor vernieuwend onderzoek - icthealth.nl",
-      "summary": "Drie UMCG-onderzoekers krijgen beurs voor vernieuwend onderzoek icthealth.nl",
+      "title": "Drie UMCG-onderzoekers krijgen beurs voor vernieuwend onderzoek - ICT&health",
+      "summary": "Drie UMCG-onderzoekers krijgen beurs voor vernieuwend onderzoek ICT&health",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlNNSUcyM3BjbmJmV1ZaYWFBc1RPa3U3RWxKQlcxY0htUmh5UTM1WHJWZTN5T2YwSmE0NEhwa1BJZE1ZdDN4QndTcXA3QWw4eGlvVFdaS1R3dzdUUGMxX2tkY2lkRWNraXh2d0dERUt0d294YUZkT2syUGFucEdIQ1k3OFV5S0NNSmg2aVdwVWRRQWRVbDQ4QWUyWQ?oc=5",
       "source": "NEWS",
       "published": "2026-07-27T07:00:00+00:00",
