@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-05T15:00:51.376176+00:00",
-  "total": 83,
+  "last_updated": "2026-10-06T13:27:18.577043+00:00",
+  "total": 85,
   "articles": [
+    {
+      "id": "055b76eafc37d81f888cb7d331348466",
+      "umc": "LUMC",
+      "title": "LUMC-onderzoek zet vraagtekens bij interpretatie van populaire verouderingstesten - Drimble",
+      "summary": "LUMC-onderzoek zet vraagtekens bij interpretatie van populaire verouderingstesten Drimble",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbjBaYlA2OFpic2ZBOGdFNmdzVngyZnM1cFFBVnBNMmc1aDI1ZGJVYWZLZVpURFg0eEYtdzlTU2RiUTFxZjdzbGs1QjNGTlRmaHNPOGQ4S2ZxTFNDaEVxcGJQS3NBM2ZWU1EyQ2N5Tk05X0JzUUNDa0NvNkxHbmtUVFNaRWJPV01YZURacmduMDB1MDlfNjdKalhIck5GUjMwVkZnMWN6SlpJdkVGSWlpcWdQelUwaWZWOHhSckQ0Q2N0T2ZTdjNOcTE4OEV2aGF5VVVEM2JoYUg?oc=5",
+      "source": "NEWS",
+      "published": "2026-10-05T21:49:39+00:00",
+      "tags": []
+    },
     {
       "id": "9409ed175df39eec1bb5376b35c081de",
       "umc": "Radboudumc",
@@ -140,6 +150,18 @@
       "source": "NEWS",
       "published": "2026-08-25T12:06:41+00:00",
       "tags": []
+    },
+    {
+      "id": "cc9e9469d6d54d268534c2fc556e9d30",
+      "umc": "UMCG",
+      "title": "UMCG betrokken bij landelijk onderzoek naar gewasbeschermingsmiddelen en Parkinson - BioJournaal",
+      "summary": "UMCG betrokken bij landelijk onderzoek naar gewasbeschermingsmiddelen en Parkinson BioJournaal",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNHNEazVWUzRyR3hnaTZuNEtFYnRPYWR1Vi1BN3pLLTVDSTlMQmxOSFZNR1FXY1dpWXBVWjYyYm1pS3d5cjVQQjJNdnE3Vm5LRFJzUFpKOHplTjQ4NExPZVk2OGZVNEM2MEdQQXoxVVpOdFp1d3FERVAtc0Y1cm5IVGpXbUVjTXoyNzRiZTkyZkxRaUlLZE95eVd1ZWp6UG1oVzJoVXZrVHBRVlhteUQ3OHZfM0VwLW9RRGVxZmNZa3lMWWJu?oc=5",
+      "source": "NEWS",
+      "published": "2026-08-25T07:00:00+00:00",
+      "tags": [
+        "Neurologie"
+      ]
     },
     {
       "id": "a3be21672c1f2332f894a1b14242d9f4",
