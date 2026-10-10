@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-09T13:31:07.889954+00:00",
-  "total": 86,
+  "last_updated": "2026-10-10T12:45:19.815453+00:00",
+  "total": 87,
   "articles": [
     {
       "id": "055b76eafc37d81f888cb7d331348466",
@@ -311,6 +311,18 @@
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVXJtZjZHNzFOMHNHTTctRFdILTM1MC0xejRWZktuQkZnMUt4YU5FVkhKeVRxYXNEaDZ0X2E3YTJLSUhaUjVCVTFsOWVTaU1JUnZrd1M3blhrTVZ4dXZNc1lUT3ZjenJudTNiWkIxaVE5Tjh4LTctMXRIeDJ6V1pDU3AtZnBydmt4ck4zaVNkZ0EteUtnb1diNW1jTUNwTHdVS0FKZHlGT0sxV3RRbmY3LUkyUUwzWXRzbml2UEd6OHRUb1FqQ3lzTGx5MmVjeFRJUGpqbkVPRmlEMGtzTmFiZlFYODQwUTVyazhuQUl2Q082NjltLVdXTnJB?oc=5",
       "source": "NEWS",
       "published": "2026-08-06T15:12:00+00:00",
+      "tags": [
+        "Genomica & genetica"
+      ]
+    },
+    {
+      "id": "a6f62455e74dd258a3e5ad8d059a4837",
+      "umc": "UMCG",
+      "title": "CLDR zet volgende stap: nieuw duurzaam laboratoriumgebouw UMCG en RUG voor zorg, onderzoek en onderwijs - Rijksuniversiteit Groningen",
+      "summary": "CLDR zet volgende stap: nieuw duurzaam laboratoriumgebouw UMCG en RUG voor zorg, onderzoek en onderwijs Rijksuniversiteit Groningen",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZS3o1S3VtbHVUMHNlS3JOMUVPbURPU2tMQ25iN0VCTjFWTVVEeGpnVERacTVpMTdzTVFvankzRHVTUFk2cEd6Q09UcGt0LXJDZWhZN3RjUFRhZ3V0QXJqNTM3YTZkUGlPLXdfVGY5Z0RPSk52bml6Si0xRW4?oc=5",
+      "source": "NEWS",
+      "published": "2026-08-06T07:00:00+00:00",
       "tags": [
         "Genomica & genetica"
       ]
